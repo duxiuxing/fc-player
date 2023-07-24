@@ -1,0 +1,24 @@
+SCE454:F0:D0:Invincibility (1 of 2)[GGC]
+SCEC03:D0:F0:Invincibility (2 of 2)[GGC]
+SCE69:BD:Infinite lives - both players[GGC]
+SCCE69:AD:DE:Infinite lives - both players (alt)[GGC]
+SCEBB0:AD:9D:Keep weapon after death[GGC]
+SCA0A8:09:08:Start a new game to view ending[GGC]
+SCC75F:0B:11:Press Start to complete the level[GGC]
+SC9B6:00:Start with 1 life - both players[GGC]
+SC9B6:05:Start with 6 lives - both players[GGC]
+SC9B6:09:Start with 9 lives - both players[GGC]
+0028:05:Infinite lives - P1
+0029:04:Infinite lives - P2
+0039:01:Start on stage 02 (disable after loading stage)
+0039:02:Start on stage 03 (disable after loading stage)
+0039:03:Start on stage 04 (disable after loading stage)
+0039:04:Start on stage 05 (disable after loading stage)
+0039:05:Start on stage 06 (disable after loading stage)
+0039:06:Start on stage 07 (disable after loading stage)
+0039:07:Start on stage 08 (disable after loading stage)
+0039:08:Start on stage 09 (disable after loading stage)
+0039:09:Start on stage 10 (disable after loading stage)
+04C2:FA:Infinite time for tank
+0680:02:Invincibility - P1
+0681:02:Invincibility - P2

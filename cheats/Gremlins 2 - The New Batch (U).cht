@@ -1,0 +1,18 @@
+SCDD0B:F0:D0:Invincibility[GGC]
+SC81CA:A5:C6:Infinite health[GGC]
+SCC800:04:00:Start with 5 lives[GGC]
+SCC800:09:00:Start with 10 lives[GGC]
+SCC805:03:01:Start with 3 balloons[GGC]
+SCC805:06:01:Start with 6 balloons[GGC]
+SC807E:AD:CE:Infinite lives[GGC]
+SC8A2B:AD:CE:Infinite Balloons[GGC]
+SCC80A:02:06:Start with only 1 heart (1 of 2)[GGC]
+SC808B:02:06:Start with only 1 heart (2 of 2)[GGC]
+SCC80A:08:06:Start with 4 hearts (1 of 2)[GGC]
+SC808B:08:06:Start with 4 hearts (2 of 2)[GGC]
+00A9:09:Invincibility after one hit
+00AD:06:Infinite health (alt)
+0360:00:One hit kills on bosses
+050C:05:Infinite Balloons (alt)
+056C:FF:Infinite Crystals
+057C:03:Infinite lives (alt)

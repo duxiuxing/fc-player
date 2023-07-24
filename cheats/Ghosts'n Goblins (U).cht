@@ -1,0 +1,27 @@
+SCF5EC:00:01:Invincibility[GGC]
+SCD396:AD:CE:Infinite time[GGC]
+SCF607:38:90:Hit anywhere (1 of 4)[GGC]
+SCF608:60:01:Hit anywhere (2 of 4)[GGC]
+SCF5C1:B9:99:Hit anywhere (3 of 4)[GGC]
+SCB6BE:B9:99:Hit anywhere (4 of 4)[GGC]
+SCD243:02:03:Speed up game[GGC]
+SCD243:04:03:Slow down game[GGC]
+SCC5FF:36:40:Start with Axe[GGC]
+SCC5FF:42:40:Start with Dagger[GGC]
+SCC5FF:44:40:Start with Fireball[GGC]
+SCC5FF:4F:40:Start with Cross[GGC]
+SCC5FF:AC:40:Start with Blue Sphere[GGC]
+SCD062:00:0F:Enable stage select (disable after loading stage)[GGC]
+SE3D6:C5:Infinite armor[GGC]
+SCC609:01:03:Start with 1 life - both players[GGC]
+SCC609:06:03:Start with 6 lives - both players[GGC]
+SCC609:09:03:Start with 9 lives - both players[GGC]
+SCC907:AD:CE:Infinite lives - both players[GGC]
+SCC60A:8E:8D:Start with 4 lives - P1[GGC]
+00A7:0F:Enable stage select (disable after loading stage) (alt)
+00BF:01:Automatically complete level
+00AA:00:Game difficulty - normal
+00AA:01:Game difficulty - hard
+00AA:02:Game difficulty - harder
+00AA:03:Game difficulty - hardest
+00AA:04:Game difficulty - expert

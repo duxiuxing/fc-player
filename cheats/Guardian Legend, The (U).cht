@@ -1,0 +1,48 @@
+SCD2CB:60:A5:Invincibility[GGC]
+SCE325:00:FF:Infinite health[GGC]
+SCD357:00:6F:Hit anywhere (1 of 4)[GGC]
+SCD356:C0:25:Hit anywhere (2 of 4)[GGC]
+SCD358:D0:F0:Hit anywhere (3 of 4)[GGC]
+SCD359:09:05:Hit anywhere (4 of 4)[GGC]
+SC8B94:E9:E5:Use up minimum shots (1 of 2)[GGC]
+SC8B95:01:10:Use up minimum shots (2 of 2)[GGC]
+SC8B94:24:E5:Never use up shots (To finish the game, save before opening the entrance to corridor 6. Restart with no codes and go through the enterance. Save again, then restart.)[GGC]
+SC80E5:20:40:Start with less health[GGC]
+SC80E5:80:40:Start with more health[GGC]
+0030:50:Fighter shape (Adventure and Space mode)
+0030:52:Fighter shape in TGL mode (Adventure and Space mode)
+003A:01:Max consecutive firing
+003A:01:Have 2-way shot
+003A:02:Have 3-way shot
+003A:03:Have 4-way shot
+003D:01:Max weapon power - Blue
+003D:02:Max weapon power - Green
+003D:03:Max weapon power - Red
+SCEB48:01:00:Start on area 01[GGC]
+SCEB48:03:00:Start on area 03[GGC]
+SCEB48:05:00:Start on area 05[GGC]
+SCEB48:07:00:Start on area 07[GGC]
+SCEB48:09:00:Start on area 09[GGC]
+0050:0A:Start on area 10
+0051:01:Start on Corridor 01
+0051:02:Start on Corridor 02
+0051:03:Start on Corridor 03
+0051:04:Start on Corridor 04
+0051:05:Start on Corridor 05
+0051:06:Start on Corridor 06
+0051:07:Start on Corridor 07
+0051:08:Start on Corridor 08
+0051:09:Start on Corridor 09
+0051:0A:Start on Corridor 10
+0051:0B:Start on Corridor 11
+0051:0C:Start on Corridor 12
+0051:0D:Start on Corridor 13
+0051:0E:Start on Corridor 14
+0051:0F:Start on Corridor 15
+0051:10:Start on Corridor 16
+0051:11:Start on Corridor 17
+0051:12:Start on Corridor 18
+0051:13:Start on Corridor 19
+0051:14:Start on Corridor 20
+0051:15:Start on Corridor 21
+0051:16:Start on Corridor 22

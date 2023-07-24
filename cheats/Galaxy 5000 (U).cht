@@ -1,0 +1,16 @@
+SC9040:BD:DE:Infinite time[GGC]
+SCAEFD:2C:FD:Reduce damage free of charge[GGC]
+SCA9C0:AD:20:No damage from falling[GGC]
+SCF9FE:A9:A5:Take less damage (1 of 2)[GGC]
+SCF9FF:01:1A:Take less damage (2 of 2)[GGC]
+SCA9BD:AD:BD:More damage from falling (2 of 2)[GGC]
+SCBF6E:30:23:More damage from falling (2 of 2)[GGC]
+SC948A:0E:E6:More damage from shots (1 of 2)[GGC]
+SC948B:BF:FE:More damage from shots (2 of 2)[GGC]
+00AB:00:Always in 1st place - P1
+00AC:00:Always in 1st place - P2
+00AD:00:Always in 1st place - P3
+00AE:00:Always in 1st place - P4
+069A:09:Infinite time (one's digit)
+069B:09:Infinite time (ten's digit)
+069C:09:Infinite time (hundred's digit)

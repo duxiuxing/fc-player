@@ -1,0 +1,11 @@
+SCB55E:00:01:Infinite time[GGC]
+SC980C:02:01:Start with double rations of ammo[GGC]
+SC9801:05:04:Increase timer to 59 seconds (1 of 2)[GGC]
+SC9806:09:05:Increase timer to 59 seconds (2 of 2)[GGC]
+SC9801:02:04:Decrease timer to 25 seconds (1 of 2)[GGC]
+SC9806:05:05:Decrease timer to 25 seconds (2 of 2)[GGC]
+05F1:63:Enemies never shoot at you
+061A:09:Infinite ammo (1 of 2)
+061B:09:Infinite ammo (2 of 2)
+061E:09:Infinite time (1 of 2)
+061F:09:Infinite time (2 of 2)
