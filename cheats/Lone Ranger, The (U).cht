@@ -1,0 +1,16 @@
+SCF5CE:FF:64:Start with 255 dollars[GGC]
+SCA85B:00:01:Infinite regular and silver bullets[GGC]
+SCA7B6:05:0A:Cheaper silver bullets[GGC]
+SCA7B5:02:05:Cheaper standard bullets[GGC]
+SCF5D6:0A:05:Start with 10 silver bullet rounds[GGC]
+SCF5D6:0F:05:Start with 15 silver bullet rounds[GGC]
+SCF5D2:0F:0A:Start with 15 standard bullet rounds[GGC]
+SCF5D2:1E:0A:Start with 30 standard bullet rounds[GGC]
+SCC14F:24:85:Infinite energy - side views only[GGC]
+SCA857:24:46:Don't lose money when shooting bystanders (1 of 2)[GGC]
+SCA859:24:66:Don't lose money when shooting bystanders (2 of 2)[GGC]
+0050:FF:Infinite money (1 of 2)
+DF30:FF:Infinite money (2 of 2)
+0052:06:Infinite regular and silver bullets (alt)
+0055:63:Infinite T.N.T.
+005F:0C:Infinite health

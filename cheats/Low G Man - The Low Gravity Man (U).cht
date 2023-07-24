@@ -1,0 +1,27 @@
+SC880F:AD:8D:Infinite life (blinking)[GGC]
+SCD6A2:01:03:Start with 1 life[GGC]
+SCD6A2:06:03:Start with 6 lives[GGC]
+SCD6A2:09:03:Start with 9 lives[GGC]
+SCD89C:01:03:1 life after continue[GGC]
+SCD89C:06:03:6 lives after continue[GGC]
+SCD89C:09:03:9 lives after continue[GGC]
+SCD870:AD:CE:Infinite lives[GGC]
+SCD947:2C:CE:Infinite time[GGC]
+SCD96C:AD:CE:Infinite vehicle fuel[GGC]
+SCA600:08:02:Full life gained from capsules[GGC]
+SCA600:01:02:Less life gained from capsules[GGC]
+SCD86C:03:01:Full EMDP on a new life[GGC]
+SCD864:02:00:Full AGM on a new life[GGC]
+SCA692:0A:03:10 Boomerangs on pick-up[GGC]
+SCA66C:0A:03:10 Fireballs on pick-up[GGC]
+SCA6B8:0A:03:10 Bombs on pick-up[GGC]
+SCA6DE:0A:03:10 Waves on pick-up[GGC]
+050A:00:Enemies die instantly (1 of 2)
+050E:00:Enemies die instantly (2 of 2)
+0639:08:Infinite life
+0647:23:Jump higher
+0651:03:Rank is 03/03
+0656:63:Rank left is 99/99 (1 of 2)
+0657:63:Rank left is 99/99 (2 of 2)
+06D6:09:Infinite lives (alt)
+0738:FF:Infinite time (alt)
