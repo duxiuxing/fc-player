@@ -1,0 +1,25 @@
+SCB1BA:60:A5:Invincibility (1 of 2)[GGC]
+SCA0B4:D0:F0:Invincibility (2 of 2)[GGC]
+SCCF77:AE:8D:Infinite health[GGC]
+SCCF64:00:01:Don't lose a life from health loss[GGC]
+SCD058:00:01:Don't lose a life from timer[GGC]
+SCBBF5:00:02:Start with 1 life[GGC]
+SCBBF5:05:02:Start with 6 lives[GGC]
+SCBBF5:08:02:Start with 9 lives[GGC]
+SCCF65:AD:8D:Infinite lives[GGC]
+SCBBFA:01:02:1 continue[GGC]
+SCBBFA:05:02:6 continues[GGC]
+SCBBFA:08:02:9 continues[GGC]
+SCB088:AD:BD:Infinite chip power[GGC]
+SCD022:FF:3F:Slower timer[GGC]
+SCD022:2F:3F:Faster timer[GGC]
+SCB088:AD:BD:Special weapons use minimum chip power (1 of 2)[GGC]
+SCB089:10:0F:Special weapons use minimum chip power (2 of 2)[GGC]
+SCBBFF:0F:0A:Start with maximum health (1 of 2)[GGC]
+SCB3A3:0F:0A:Start with maximum health (2 of 2)[GGC]
+SCBBFF:05:0A:Start with less health (1 of 2)[GGC]
+SCB3A3:05:0A:Start with less health (2 of 2)[GGC]
+0089:03:Invincibility (blinking)
+068C:0A:Infinite health (alt)
+0691:09:Infinite time
+06C0:09:Infinite lives (alt)

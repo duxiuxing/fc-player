@@ -1,0 +1,12 @@
+SCD1E3:85:A5:Invincibility[GGC]
+SCCD4A:A5:C6:Infinite lives[GGC]
+SC8C19:A6:E6:Infinite time[GGC]
+SCC8A3:0C:33:Press Start to complete the level (1 of 3)[GGC]
+SCC8A5:0B:33:Press Start to complete the level (2 of 3)[GGC]
+SCC8A2:A9:45:Press Start to complete the level (3 of 3)[GGC]
+SCC065:01:03:Start with one life[GGC]
+SCC065:06:03:Start with double lives[GGC]
+SCC065:09:03:Start with triple lives[GGC]
+SCCD59:01:03:One life after continue[GGC]
+0015:09:Infinite lives (alt)
+0031:03:Invincibility (alt)

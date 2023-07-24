@@ -1,0 +1,30 @@
+SCF28F:50:D0:Invincibility after one hit (blinking)[GGC]
+SCCB6F:A5:85:Invincibility (1 of 3)[GGC]
+SCCB82:A5:85:Invincibility (2 of 3)[GGC]
+SCCB73:A5:85:Invincibility (3 of 3)[GGC]
+SCDAC5:AD:CE:Infinite lives[GGC]
+SF5BE:2A:Jump higher[GGC]
+SCAD67:24:C6:Infinite time[GGC]
+SCCF81:03:01:Gain 3 of most items[GGC]
+SCCF81:97:01:Gain 97 of most items[GGC]
+SCCF9D:00:01:Never lose most items[GGC]
+SCD038:01:00:Start on stage 2[GGC]
+SCD038:02:00:Start on stage 3[GGC]
+SCD038:03:00:Start on stage 4[GGC]
+SCD038:04:00:Start on stage 5[GGC]
+SCD038:05:00:Start on stage 6[GGC]
+SCD038:06:00:Start on stage 7[GGC]
+SCD038:07:00:Start on stage 8[GGC]
+SCD038:08:00:Start on stage 9[GGC]
+SCD01D:00:02:Start with 1 life (1 of 2)[GGC]
+SCDED6:00:02:Start with 1 life (2 of 2)[GGC]
+SCD01D:05:02:Start with 6 lives (1 of 2)[GGC]
+SCDED6:05:02:Start with 6 lives (2 of 2)[GGC]
+SCD01D:08:02:Start with 9 lives (1 of 2)[GGC]
+SCDED6:08:02:Start with 9 lives (2 of 2)[GGC]
+0065:01:Have Double Flame Shot
+0065:02:Have Triple Flame Shot
+0069:FA:Invincibility after one hit (blinking) (alt)
+0094:A7:Infinite time (alt)
+00BA:99:Have 99 Ks
+040B:09:Infinite lives (alt)

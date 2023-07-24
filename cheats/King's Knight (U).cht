@@ -1,0 +1,9 @@
+SCA16E:24:85:Infinite health[GGC]
+SCB1D8:18:0C:Start with double usual health[GGC]
+SCB1D8:06:0C:Start with half usual health[GGC]
+SCB1DE:01:00:Start with a better character[GGC]
+SCB1DE:02:00:Start with the best character normally possible[GGC]
+SCB1DE:05:00:Start with a super character, better than normally Possible[GGC]
+SCA168:E9:E5:Only lose 1 HP when hit (1 of 2)[GGC]
+SCA169:01:10:Only lose 1 HP when hit (2 of 2)[GGC]
+009A:0C:Infinite health (alt)

@@ -1,0 +1,20 @@
+SC8140:00:02:Start with 1 life[GGC]
+SC8140:05:02:Start with 6 lives[GGC]
+SC8140:08:02:Start with 9 lives[GGC]
+SCBDE1:A5:C6:Infinite lives[GGC]
+SCC69F:00:16:Float spell[GGC]
+SCDBF6:A5:85:Infinite health[GGC]
+SCCDE1:01:04:Quicker supershot[GGC]
+SCF0A3:04:08:Less health used on fire spell (1 of 2)[GGC]
+SCF096:05:09:Less health used on fire spell (2 of 2)[GGC]
+SC8129:A0:A9:Start on stage X (1 of 3)[GGC]
+SC812D:84:85:Start on stage X (2 of 3)[GGC]
+SC812A:01:00:Start on stage 2 (3 of 3)[GGC]
+SC812A:02:00:Start on stage 3 (3 of 3)[GGC]
+SC812A:03:00:Start on stage 4 (3 of 3)[GGC]
+0043:02:Infinite lives (alt)
+004C:28:Infinite health (alt)
+0057:1F:Moon-jump (disable in underwater stage)
+0318:05:Infinite oxygen in underwater stage
+03DE:02:Invincibility (1 of 2)
+03E0:3A:Invincibility (2 of 2)

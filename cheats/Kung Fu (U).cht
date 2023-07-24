@@ -1,0 +1,41 @@
+SCBFD6:24:D0:Invincibility against knives[GGC]
+SCACE0:30:06:Infinite health (1 of 2)[GGC]
+SCACE1:8E:AD:Infinite health (2 of 2)[GGC]
+SC8831:AD:20:Infinite time[GGC]
+S8882:B5:Infinite lives - both players[GGC]
+SCC257:00:C9:Hit anywhere[GGC]
+S84AC:85:Give P2 an advantage[GGC]
+SCA5EB:00:69:Enemies easier to shrug off[GGC]
+SCA5E9:0A:04:Enemies harder to shrug off[GGC]
+SCAF8D:03:01:Normal enemies do more damage[GGC]
+SCAB38:FA:4A:Knife thrower harder to beat[GGC]
+SCC76D:24:85:Don't die when time runs out (1 of 2)[GGC]
+SCC76F:60:4C:Don't die when time runs out (2 of 2)[GGC]
+SCA793:60:4C:Enemies die when trying to grab you (1 of 4)[GGC]
+SCA5C6:24:D0:Enemies die when trying to grab you (2 of 4)[GGC]
+SCA5C9:EC:4D:Enemies die when trying to grab you (3 of 4)[GGC]
+SCA5CA:A5:A6:Enemies die when trying to grab you (4 of 4)[GGC]
+S84AB:01:Start with 1 life - both players[GGC]
+S84AB:09:Start with 9 lives - both players[GGC]
+S8436:24:Start at last level reached - P1[GGC]
+S8439:24:Start at last level reached - P2[GGC]
+SC9B7F:FE:FF:Walk 2X faster (1 of 2)[GGC]
+SC9B7E:02:01:Walk 2X faster (2 of 2)[GGC]
+SC9B7E:04:01:Walk 4X faster (2 of 2)[GGC]
+SC9B7F:FC:FF:Walk 4X faster (2 of 2)[GGC]
+005C:09:Infinite lives (alt)
+03E8:00:Knife Thrower doesn't throw knives (1 of 4)
+03E9:00:Knife Thrower doesn't throw knives (2 of 4)
+03EA:00:Knife Thrower doesn't throw knives (3 of 4)
+03EB:00:Knife Thrower doesn't throw knives (4 of 4)
+04A6:1E:Infinite health (disable at end of level)
+0536:09:Max score (1 of 6)
+0535:09:Max score (2 of 6)
+0534:09:Max score (3 of 6)
+0533:09:Max score (4 of 6)
+0532:09:Max score (5 of 6)
+0531:09:Max score (6 of 6)
+005F:01:Start on floor 2
+005F:02:Start on floor 3
+005F:03:Start on floor 4
+005F:04:Start on floor 5
