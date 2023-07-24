@@ -1,0 +1,70 @@
+SCE335:EA:E5:Infinite health (1 of 2)[GGC]
+SCE336:EA:0C:Infinite health (2 of 2)[GGC]
+SE330:E2:Almost infinite health[GGC]
+SC8DF0:2C:F9:Infinite magic[GGC]
+SC8DF5:AD:8D:Infinite magic (alt)[GGC]
+SD3F8:08:Infinite magic and health in battle[GGC]
+SD9E3:EA:Keys not necessary to open doors (1 of 2)[GGC]
+SD9E2:E2:Keys not necessary to open doors (2 of 2)[GGC]
+SCD9E4:AD:CE:Infinite Keys after one is obtained[GGC]
+SCD45E:EA:8D:Gain 256 EXP when you defeat an enemy most of the time[GGC]
+SCD465:01:00:Gain more than 256 EXP for every EXP[GGC]
+SC9F6B:AD:8D:Don't lose EXP points while leveling up (1 of 2)[GGC]
+SC9F74:AD:8D:Don't lose EXP points while leveling up (2 of 2)[GGC]
+SCCA44:AD:CE:Infinite lives[GGC]
+SCC359:01:03:Start with 1 life[GGC]
+SCC359:06:03:Start with 6 lives[GGC]
+SCC359:09:03:Start with 9 lives[GGC]
+SC9530:F5:F7:Multi-jump (1 of 6)[GGC]
+SC9535:A9:AD:Multi-jump (2 of 6)[GGC]
+SC9536:FB:7D:Multi-jump (3 of 6)[GGC]
+SC9537:8D:05:Multi-jump (4 of 6)[GGC]
+SC9538:7D:10:Multi-jump (5 of 6)[GGC]
+SC9539:05:02:Multi-jump (6 of 6)[GGC]
+SC953B:20:30:Mega-jump[GGC]
+SC953B:00:30:Link can fly (hold A)[GGC]
+SCA60D:DE:BD:Start with all spells[GGC]
+SCE6A4:50:B0:Hit anywhere (press up if you get stuck at a Palace entrance)[GGC]
+SC8E48:F1:8D:Swap Shield spell for Fire spell (1 of 2)[GGC]
+SC8E49:97:8E:Swap Shield spell for Fire spell (2 of 2)[GGC]
+SC8E48:73:8D:Swap Shield spell for Spell spell (1 of 2)[GGC]
+SC8E49:8E:8E:Swap Shield spell for Spell spell (2 of 2)[GGC]
+SC8E48:23:8D:Swap Shield spell for Fairy spell (1 of 2)[GGC]
+SC8E49:91:8E:Swap Shield spell for Fairy spell (2 of 2)[GGC]
+SC8E48:5D:8D:Swap Shield spell for Life spell (1 of 2)[GGC]
+SC8E49:8E:8E:Swap Shield spell for Life spell (2 of 2)[GGC]
+SC8E48:E6:8D:Swap Shield spell for Thunder spell (1 of 2)[GGC]
+SC8E49:91:8E:Swap Shield spell for Thunder spell (2 of 2)[GGC]
+0086:00:No enemies in overworld (1 of 4)
+0087:00:No enemies in overworld (2 of 4)
+0088:00:No enemies in overworld (3 of 4)
+0089:00:No enemies in overworld (4 of 4)
+00C2:01:One hit kill on final boss
+0518:03:Invincibility (disable when fighting your shadow)
+0700:04:Infinite lives (alt)
+076F:02:Jump spell always on
+0773:FF:Infinite magic (alt 2)
+0774:FF:Infinite health (alt)
+0777:FF:Max sword level
+0778:FF:Max magic level
+0779:FF:Max life level
+077B:01:Have Shield spell
+077C:01:Have Jump spell
+077D:01:Have Life spell
+077E:01:Have Fairy spell
+077F:01:Have Fire spell
+0780:01:Have Reflect spell
+0781:01:Have Spell spell
+0782:01:Have Thunder spell
+0783:08:Max magic jars
+0785:01:Have Candle
+0786:01:Have Glove
+0787:01:Have Raft
+0788:01:Have Boots
+0789:01:Have Flute
+078A:01:Have Cross
+078B:01:Have Hammer
+078C:01:Have Key
+0793:09:Infinite Keys
+0794:00:Can enter final palace
+0796:FF:Have up/down thrust
