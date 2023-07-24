@@ -1,0 +1,5 @@
+SCF4C3:1E:0F:30-minute quarters[GGC]
+SCF4C3:0A:0F:10-minute quarters[GGC]
+SCBFC3:8C:8D:No timeouts - P2[GGC]
+SCBFBF:06:03:6 timeouts per half (ignore display)[GGC]
+SCBFBF:01:03:1 timeout per half[GGC]

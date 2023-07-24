@@ -1,0 +1,52 @@
+SE162:A9:Invincibility[GGC]
+SCE177:60:A9:Invincibility (alt)[GGC]
+SCE1AF:A5:85:Infinite health[GGC]
+SCE401:A5:C6:Infinite lives[GGC]
+SCEB8D:00:80:Multi-jump (1 of 5)[GGC]
+SCED92:00:1D:Multi-jump (2 of 5)[GGC]
+SCECED:24:D0:Multi-jump (3 of 5)[GGC]
+SCEE35:24:D0:Multi-jump (4 of 5)[GGC]
+SCEEF6:A5:85:Multi-jump (5 of 5)[GGC]
+SCE53B:08:02:Start with 9 lives[GGC]
+SCE53B:05:02:Start with 6 lives[GGC]
+SCE53B:00:02:Start with 1 life[GGC]
+SCEFAE:00:05:Use windmill throwing-star without losing spiritual strength[GGC]
+SCEF03:00:05:Use fire-wheel without losing spiritual strength[GGC]
+SCEF67:00:03:Use shuriken without losing spiritual strength[GGC]
+SCDC04:10:06:Maximum strength regained from restorer[GGC]
+SC805E:04:E6:Sound test - hold down and press Start at Tecmo Presents screen[GGC]
+SDED5:00:Hit anywhere (1 of 5)[GGC]
+SDEE3:00:Hit anywhere (2 of 5)[GGC]
+SDEEB:00:Hit anywhere (3 of 5)[GGC]
+SDEF3:10:Hit anywhere (4 of 5)[GGC]
+SDEF7:D0:Hit anywhere (5 of 5)[GGC]
+SCDDF2:00:03:Enemies die instantly (1 of 6)[GGC]
+SCDED5:00:24:Enemies die instantly (2 of 6)[GGC]
+SCDEE3:00:15:Enemies die instantly (3 of 6)[GGC]
+SCDEEB:00:09:Enemies die instantly (4 of 6)[GGC]
+SCDEF3:10:90:Enemies die instantly (5 of 6)[GGC]
+SCDEF7:D0:90:Enemies die instantly (6 of 6)[GGC]
+0095:02:Invincibility after first hit (1 of 2)
+0093:80:Invincibility after first hit (2 of 2)
+006D:01:Start on stage 1-2
+006D:02:Start on stage 2-1
+006D:03:Start on stage 2-2
+006D:04:Start on stage 2-3
+006D:05:Start on stage 3-1
+006D:06:Start on stage 3-2
+006D:07:Start on stage 3-3
+006D:08:Start on stage 4-1
+006D:09:Start on stage 4-2
+006D:0A:Start on stage 4-3
+006D:0B:Start on stage 4-4
+006D:0C:Start on stage 5-1
+006D:0D:Start on stage 5-2
+006D:0E:Start on stage 5-3
+006D:0F:Start on stage 5-4
+006D:10:Start on stage 6-1
+006D:11:Start on stage 6-2
+006D:12:Start on stage 6-3
+006D:13:Start on stage 6-4 (1st boss)
+006D:14:Start on stage 6-4 (2nd boss)
+006D:15:Start on stage 6-5 (final boss)
+0497:00:One hit kills bosses
