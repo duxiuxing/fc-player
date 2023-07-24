@@ -1,0 +1,47 @@
+SC80AE:F0:D0:Invincibility[GGC]
+SC80E0:24:85:Infinite health[GGC]
+SC80E0:A5:85:Infinite health (alt)[GGC]
+SCCB82:00:01:Infinite lives[GGC]
+SCDEF6:B9:99:Infinite weapons (except Top Man)[GGC]
+SC8292:A5:85:Infinite Top Man[GGC]
+SCFBD2:18:38:Hit anywhere (1 of 2)[GGC]
+SCFBD3:60:BD:Hit anywhere (2 of 2)[GGC]
+SC81CA:00:02:One hit kills[GGC]
+SCCEB9:07:04:Mega-jump[GGC]
+SCD3AE:50:14:Longer slides[GGC]
+SCD3C0:FF:80:Faster slides[GGC]
+SCCD42:FF:4C:Move faster[GGC]
+SCCD47:02:01:Move mega-fast[GGC]
+SCCD9B:36:07:Multi-jump (1 of 3)[GGC]
+SCCDB1:CE:D0:Multi-jump (2 of 3)[GGC]
+SCCE39:24:90:Multi-jump (3 of 3)[GGC]
+SCBE3F:DD:DE:Collectable items never disappear[GGC]
+SC9CAA:00:D4:Special items re-appear after being collected[GGC]
+SCBF72:A0:90:Enemies always drop x (1 of 3)[GGC]
+SCBF76:06:F8:Enemies always drop x (2 of 3)[GGC]
+SCBF73:05:09:Enemies always drop extra lives (3 of 3)[GGC]
+SCBF73:03:09:Enemies always drop large health refill (3 of 3)[GGC]
+SCBF73:01:09:Enemies always drop large weapon refill (3 of 3)[GGC]
+SC931C:00:D5:Able to access already defeated boss stages[GGC]
+SCC8FC:00:02:Start with 1 life[GGC]
+SCC8FC:05:02:Start with 6 lives[GGC]
+SCC8FC:08:02:Start with 9 lives[GGC]
+SC991F:01:02:Start with 1 life after continue[GGC]
+SC991F:05:02:Start with 6 lives after continue[GGC]
+SC991F:08:02:Start with 9 lives after continue[GGC]
+0033:FF:Infinite slide time
+0039:39:Invincibility (alt)
+00A2:9C:Infinite health (alt 2)
+00A3:9C:Infinite Gemini Man
+00A4:9C:Infinite Needle Man
+00A5:9C:Infinite Hard Man
+00A6:9C:Infinite Magnet Man
+00A7:9C:Infinite Top Man (alt)
+00A8:9C:Infinite Snake Man
+00A9:9C:Infinite Rush Coil
+00AA:9C:Infinite Spark Man
+00AB:9C:Infinite Rush Sub
+00AC:9C:Infinite Shadow Man
+00AD:9C:Infinite Rush Jet
+00AE:03:Infinite lives
+CEB9:09:Mega-jump (alt)

@@ -1,0 +1,31 @@
+SCA8D2:0D:FD:Infinite weapons on pick-up[GGC]
+SCA8D5:B5:95:Infinite weapons on pick-up (alt)[GGC]
+SF3A4:30:One hit kills on bosses[GGC]
+SC97F8:01:00:Climb up ladders faster[GGC]
+SC982A:FE:FF:Climb down ladders faster[GGC]
+SCC259:A9:C6:Infinite lives[GGC]
+SCC915:00:0B:One hit kills (1 of 2)[GGC]
+SCBEDF:D0:90:One hit kills (2 of 2)[GGC]
+SCA244:A5:85:Infinite health[GGC]
+SCA1EB:60:A5:Invincibility (except against bosses)[GGC]
+SC961F:06:04:Mega-jump[GGC]
+SCB8D0:A9:69:Maximum points for shooting bosses (1 of 2)[GGC]
+SCB8D1:30:28:Maximum points for shooting bosses (2 of 2)[GGC]
+SC95BE:14:18:Multi-jump (1 of 4)[GGC]
+SC9CC6:24:B0:Multi-jump (2 of 4)[GGC]
+SC9583:BD:29:Multi-jump (3 of 4)[GGC]
+SC9584:95:96:Multi-jump (4 of 4)[GGC]
+SCB6B6:BD:FE:Collectable items never disappear[GGC]
+SCBF21:EA:C8:Enemies always drop X (1 of 2)[GGC]
+SCBF19:41:3B:Enemies always drop extra lives (2 of 2)[GGC]
+SCBF19:40:3B:Enemies always drop large health refill (2 of 2)[GGC]
+SCBF19:3F:3B:Enemies always drop large weapon refill (2 of 2)[GGC]
+SC912D:0E:1C:Start with half energy[GGC]
+SC9053:00:02:Start with 1 life[GGC]
+SC9053:05:02:Start with 6 lives[GGC]
+SC9053:08:02:Start with 9 lives[GGC]
+0055:5A:Invincibility
+005D:FF:Have all weapons and all stages cleared
+006A:1C:Infinite health (alt)
+0056:00:Bosses have no invulnerability time
+00A6:03:Infinite lives (alt)

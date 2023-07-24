@@ -1,0 +1,17 @@
+SCA45B:E9:E5:Infinite HP[GGC]
+SCE389:A5:C6:Infinite lives[GGC]
+SCE240:01:03:Start with 1 life[GGC]
+SCE240:06:03:Start with 6 lives[GGC]
+SCE240:09:03:Start with 9 lives[GGC]
+SCE230:02:05:Start with only 20 Gold Coins[GGC]
+SC8AC1:19:32:Less energy gained from Bread[GGC]
+SC8C0A:02:05:Less magic gained from Mashroobs[GGC]
+SC8C00:AD:CE:Never lose Mashroobs[GGC]
+0081:FF:Infinite HP (alt)
+0086:FF:Gain 65280 EXP for each kill
+008D:18:Infinite MP
+0306:25:Infinite Bread
+0307:25:Infinite Mashroob
+0310:05:Infinite R. Seeds
+0311:10:Infinite Carpets
+03D7:08:Infinite Troopers

@@ -1,0 +1,37 @@
+SC8EA4:D0:F0:Invincibility[GGC]
+SC8F86:AD:8D:Infinite health[GGC]
+SC9EA2:B9:99:Infinite weapons[GGC]
+SC8265:A5:C6:Infinite Rush Jet[GGC]
+SC81F5:00:19:Enemies always drop items[GGC]
+SCECEF:03:05:Hit anywhere and shoot to pick-up items[GGC]
+SCEBEB:00:0A:One hit kills (1 of 2)[GGC]
+SCEBEA:A9:B1:One hit kills (2 of 2)[GGC]
+SC8E8A:A5:C6:Infinite lives (can sometimes die and go to another part of the game)[GGC]
+SC8F84:24:E5:Infinite health (except fires, falling into pits and spikes)[GGC]
+SC8C9C:13:11:Normal shots do more damage[GGC]
+SC8CCF:16:13:Mega shots do more damage[GGC]
+SC810F:40:0F:Multi-jump (1 of 7)[GGC]
+SC8111:80:C8:Multi-jump (2 of 7)[GGC]
+SC8112:D0:05:Multi-jump (3 of 7)[GGC]
+SC8110:29:AD:Multi-jump (4 of 7)[GGC]
+SC810E:A5:D0:Multi-jump (5 of 7)[GGC]
+SC8113:CA:30:Multi-jump (6 of 7)[GGC]
+SC8114:EA:0A:Multi-jump (7 of 7)[GGC]
+SC92AE:C3:DE:Collectable items never disappear[GGC]
+SCCD3E:08:02:Start with 9 lives[GGC]
+SCCD3E:05:02:Start with 6 lives[GGC]
+SCCD3E:00:02:Start with 1 life[GGC]
+00A2:36:Invincibility (alt)
+00A9:03:Infinite lives
+03E5:1B:Infinite health (alt)
+05B1:00:Super Moonwalk (enable during stages only)
+0640:00:Bosses have no invulnerability time
+0689:1B:Infinite Beat
+068A:1B:Infinite Yamato
+068B:1B:Infinite W Storm
+068C:1B:Infinite F Blast
+068D:1B:Infinite Plant B
+068E:1B:Infinite Knight
+0690:1B:Infinite C Flash
+0691:1B:Infinite Centaur
+0696:01:Have the Energy Balancer

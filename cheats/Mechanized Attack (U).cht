@@ -1,0 +1,6 @@
+SCF0B9:AD:CE:Infinite lives[GGC]
+SCF13E:AD:CE:Infinite grenades[GGC]
+SCF105:AD:CE:Infinite bullets[GGC]
+SC91E8:00:03:Reduce damage by half[GGC]
+SCF118:14:28:Magazine holds half normal amount of bullets after first magazine used (1 of 2)[GGC]
+SCF003:14:28:Magazine holds half normal amount of bullets after first magazine used (2 of 2)[GGC]

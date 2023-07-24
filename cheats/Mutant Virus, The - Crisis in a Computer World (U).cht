@@ -1,0 +1,12 @@
+SCC096:00:05:Start with 1 life[GGC]
+SCC096:02:05:Start with 3 lives[GGC]
+SCC096:85:05:Start with 7 lives[GGC]
+SCC096:09:05:Start with 10 lives[GGC]
+SCD48A:00:FF:Don't flash after getting hit[GGC]
+SCD48A:63:FF:Flash 1/2 as long after getting hit[GGC]
+SCCC8A:A5:C6:Invincibility[GGC]
+SCCB47:AD:8D:Infinite health[GGC]
+SCD486:EA:8E:Infinite lives[GGC]
+SCD486:AE:8E:Infinite time[GGC]
+0110:06:Infinite lives (alt)
+0119:0C:Infinite health (alt)

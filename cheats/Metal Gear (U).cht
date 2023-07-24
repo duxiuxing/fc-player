@@ -1,0 +1,45 @@
+SCEAE2:A5:C6:Infinite health (1 of 2)[GGC]
+SCF231:A5:C6:Infinite health (2 of 2)[GGC]
+SCB487:A5:C6:Invincible against Gas[GGC]
+SCBA5E:A5:C6:Invincible against Electric Floors[GGC]
+SCAEA8:A5:C6:Infinite Rations[GGC]
+SCEF5E:A5:C6:Infinite Handgun ammo[GGC]
+SCEE8B:A4:84:Infinite Mines[GGC]
+SCEEA8:A6:86:Infinite Explosives[GGC]
+SCEEEC:A6:86:Infinite Missiles[GGC]
+SCEF4A:A5:C6:Infinite Machine Gun ammo[GGC]
+SCEF0A:A4:84:Infinite Grenades[GGC]
+SCEECF:A6:86:Infinite Rockets[GGC]
+SCE305:00:EB:Hit anywhere - Punch (1 of 4)[GGC]
+SCE311:00:DF:Hit anywhere - Punch (2 of 4)[GGC]
+SCE319:00:D7:Hit anywhere - Punch (3 of 4)[GGC]
+SCE2EF:50:90:Hit anywhere - Punch (4 of 4)[GGC]
+SCF25F:50:F0:Hit anywhere - Weapons except Grenade Launcher[GGC]
+SCAC5C:A9:A2:Have all weapons (1 of 3)[GGC]
+SCAC5D:FF:00:Have all weapons (2 of 3)[GGC]
+SCAC5E:85:A5:Have all weapons (3 of 3)[GGC]
+SCD753:02:01:Start at mystery location 1[GGC]
+SCD753:04:01:Start at mystery location 2[GGC]
+SCDC73:B5:95:Enemies never attack or chase you[GGC]
+SCD768:A2:A6:Start with a X boost (1 of 3)[GGC]
+SCD769:01:6E:Start with a X boost (2 of 3)[GGC]
+SCD7CA:08:05:Start with a health boost (3 of 3)[GGC]
+SCD7CA:0C:05:Start with a super health boost (3 of 3)[GGC]
+006D:10:Infinite health (alt)
+0070:FF:Have all weapons (alt)
+0075:FF:Have all equipment (1 of 4)
+0076:FF:Have all equipment (2 of 4)
+0077:FF:Have all equipment (3 of 4)
+0078:0C:Have all equipment (4 of 4)
+0079:FF:Infinite Handgun ammo (alt)
+007A:0E:Infinite Mines (alt)
+007B:0E:Infinite Explosives (alt)
+007C:0E:Infinite Missiles (alt)
+007D:FF:Infinite Machine Gun ammo (alt)
+007E:3C:Infinite Grenades (alt)
+007F:1E:Infinite Rockets (alt)
+006E:00:Have Rank - 0 Stars
+006E:01:Have Rank - 1 Star
+006E:02:Have Rank - 2 Stars
+006E:03:Have Rank - 3 Stars
+006E:04:Have Rank - 4 Stars

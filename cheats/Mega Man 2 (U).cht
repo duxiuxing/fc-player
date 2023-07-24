@@ -1,0 +1,57 @@
+SCCE36:D0:F0:Invincibility[GGC]
+SCCE36:50:F0:Invincibility (alt) (1 of 2)[GGC]
+SCCE34:85:A5:Invincibility (alt) (2 of 2)[GGC]
+SCE5A1:AD:8D:Infinite health[GGC]
+SCC1B6:A5:C6:Infinite lives[GGC]
+SCE686:24:B0:One hit kills (1 of 2)[GGC]
+SCA634:24:B0:One hit kills (2 of 2)[GGC]
+SCDA6D:23:27:Burst-fire from normal weapon[GGC]
+SC8A71:06:04:Power-jumps[GGC]
+SC8A71:08:04:Super power-jumps[GGC]
+SC8A71:10:04:Mega power-jumps[GGC]
+SC834F:24:30:Maximum weapon energy on pick-up[GGC]
+SC8904:49:29:Moonwalking[GGC]
+SCDDD9:A5:85:Infinite Heat Man[GGC]
+SCDADF:A5:85:Infinite Air Man[GGC]
+SCDF63:A5:85:Infinite Wood Man[GGC]
+SCDB34:A5:C6:Infinite Bubble Man[GGC]
+SCDB6F:A5:C6:Infinite Quick Man[GGC]
+SCDBC9:A5:C6:Infinite Metal Man[GGC]
+SCDB8C:A5:C6:Infinite Clash Man[GGC]
+SCDC76:A5:C6:Infinite 1[GGC]
+SCE224:A5:C6:Infinite 2[GGC]
+SCE340:A5:C6:Infinite 3[GGC]
+SC8B83:20:AD:Multi-jump (1 of 4)[GGC]
+SC858F:23:27:Multi-jump (2 of 4)[GGC]
+SC8B85:85:04:Multi-jump (3 of 4)[GGC]
+SC8B84:8E:A0:Multi-jump (4 of 4)[GGC]
+SCBCF7:DD:DE:Collectable items never disappear[GGC]
+SCE5E8:B9:99:Special items re-appear after being collected[GGC]
+SCF2BA:50:90:Enemies always drop x (1 of 2)[GGC]
+SCF2BB:DD:CC:Enemies always drop extra lives (2 of 2)[GGC]
+SCF2BB:D9:CC:Enemies always drop large health refill (2 of 2)[GGC]
+SCF2BB:D5:CC:Enemies always drop large weapon refill (2 of 2)[GGC]
+SC80E2:00:DC:Able to access already defeated boss stages[GGC]
+SC80C5:0E:1C:Start with half health[GGC]
+SC8073:01:03:Start with 1 life[GGC]
+SC8073:06:03:Start with 6 lives[GGC]
+SC8073:09:03:Start with 9 lives[GGC]
+004B:02:Invincibility (blinking)
+009A:FF:Have all weapons and all stages cleared (1 of 2)
+009B:FF:Have all weapons and all stages cleared (2 of 2)
+009C:1E:Infinite Heat Man once obtained
+009D:1E:Infinite Air Man once obtained
+009E:1E:Infinite Wood Man once obtained
+009F:1E:Infinite Bubble Man once obtained
+00A0:1E:Infinite Quick Man once obtained
+00A1:1E:Infinite Flash Man once obtained
+00A2:1E:Infinite Metal Man once obtained
+00A3:1E:Infinite Crash Man once obtained
+00A4:1E:Infinite 1 once obtained
+00A5:1E:Infinite 2 once obtained
+00A6:1E:Infinite 3 once obtained
+00A7:03:Infinite energy tanks
+00A8:04:Infinite lives (alt)
+00AC:FF:Atomic Fire always fully charged
+05A8:00:Bosses have no invulnerability time
+06C0:1E:Infinite health (alt)

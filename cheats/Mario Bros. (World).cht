@@ -1,0 +1,17 @@
+SCDCE0:60:D6:Invincibility[GGC]
+SCE371:AD:CE:Infinite time - bonus rounds[GGC]
+SCD2F5:A5:C6:Infinite power blocks[GGC]
+SDCE0:A5:Infinite lives[GGC]
+SD359:00:Start with 1 life[GGC]
+SD359:05:Start with 6 lives[GGC]
+SD359:08:Start with 9 lives[GGC]
+SCC8F5:01:00:Move faster[GGC]
+SCC8F5:02:00:Move much faster[GGC]
+SCDCB3:00:40:Coins kill you[GGC]
+SCF350:F6:FC:Mega-jump (1 of 2)[GGC]
+SCF351:F6:FC:Mega-jump (2 of 2)[GGC]
+SCC908:A0:A4:Enemies move faster (1 of 2)[GGC]
+SCC909:02:C7:Enemies move faster (2 of 2)[GGC]
+SCC909:03:C7:Enemies move much faster (2 of 2)[GGC]
+0048:04:Infinite lives - P1
+004C:04:Infinite lives - P2
