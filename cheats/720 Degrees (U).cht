@@ -1,0 +1,14 @@
+SCF530:AD:CE:Infinite continues[GGC]
+SCC2AB:09:03:9 continues[GGC]
+SCC2AB:06:03:6 continues[GGC]
+SCC2AB:01:03:No continues instead of 2[GGC]
+SCC2CF:04:00:Start with all equipment[GGC]
+SCC2CF:02:00:Start with half equipment[GGC]
+SCC2A4:EA:AD:Start on level XX (1 of 2)[GGC]
+SCC2A5:A9:0E:Start on level XX (2 of 2)[GGC]
+SCC2A6:02:02:Start on level 2 (3 of 3)[GGC]
+SCC2A6:03:02:Start on level 3 (3 of 3)[GGC]
+SCC2A6:04:02:Start on level 4 (3 of 3)[GGC]
+0572:19:Infinite time
+0573:09:Infinite time (one's digit) in half-pipe
+0574:09:Infinite time (ten's digit) in half-pipe

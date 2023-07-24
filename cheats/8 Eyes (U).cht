@@ -1,0 +1,26 @@
+SCBB3D:D0:F0:Invincibility - Orin[GGC]
+SCC976:D0:F0:Invincibility - Cutrus[GGC]
+SCBB9D:AD:8D:Infinite health - Orin[GGC]
+SCC9F7:AD:8D:Infinite health - Cutrus[GGC]
+SCBB9D:2C:8D:Most attacks won't damage Orin[GGC]
+SCC9F7:2C:8D:Most attacks won't damage Cutrus[GGC]
+SCA26C:40:2F:Start with more health - Orin[GGC]
+SCA26D:40:2F:Start with more health - Cutrus[GGC]
+SCEE1B:85:86:Start with all weapons[GGC]
+SCA26E:4F:2F:Start with max ammo[GGC]
+SCBED4:AD:8D:Infinite ammo[GGC]
+SCA26E:2F:00:Start with some item power[GGC]
+SCBED4:2C:8D:Never lose item power once gained[GGC]
+SCEE1F:E6:86:Start with Dagger[GGC]
+007F:02:Have Boomerang
+007F:04:Have Ice Ball
+007F:08:Have Power Ball
+007F:33:Have Dagger, Boomerang, Molotov Cocktail, Hand Gun
+009D:FA:Doors never close once opened
+030E:10:Invincibility - Orin (blinking)
+032E:10:Invincibility - Cutrus (blinking)
+034E:00:Bosses have no invulnerability time
+034F:00:Bosses defeated instantly
+0594:4F:Infinite health - Orin (alt)
+0595:4F:Infinite health - Cutrus (alt)
+0596:4F:Infinite item power

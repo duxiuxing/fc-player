@@ -1,0 +1,19 @@
+SCB824:AD:CE:Infinite lives - 1P game[GGC]
+SF828:B9:Don't die when touched[GGC]
+SCDC02:01:FF:Most enemies die instantly[GGC]
+SCD309:AD:CE:Infinite rolls[GGC]
+SCD2BC:00:10:Rapid fire[GGC]
+SCB44E:30:B0:Hit anywhere (1 of 4)[GGC]
+SCB4B5:AD:9D:Hit anywhere (2 of 4)[GGC]
+SCB404:AD:9D:Hit anywhere (3 of 4)[GGC]
+SCB44B:AD:20:Hit anywhere (4 of 4)[GGC]
+SCB7DE:05:02:Start with 6 lives - 1P game[GGC]
+SCB7DE:08:02:Start with 9 lives - 1P game[GGC]
+SCB84B:05:02:After continue, P1 has 6 lives in 2P game[GGC]
+SCB84B:08:02:After continue, P1 has 9 lives in 2P game[GGC]
+SCB859:05:02:P2 has 6 lives - 2P game[GGC]
+SCB859:08:02:P2 has 9 lives - 2P game[GGC]
+SCD851:09:03:Start with 9 rolls - both players[GGC]
+0432:02:Infinite lives
+0436:03:Infinite rolls (alt)
+048E:88:Invincibility
