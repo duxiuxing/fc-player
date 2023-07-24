@@ -1,0 +1,56 @@
+SC8112:D0:F0:Invincibility (disable if you cannot enter a door)[GGC]
+SCB241:A5:85:Invincibility (disable if you cannot enter a door) (alt)[GGC]
+SC828A:A9:85:Infinite health[GGC]
+SC8993:A9:85:Infinite lives[GGC]
+SCB287:00:18:Hit anywhere (Whip)[GGC]
+SC8BE0:60:10:Multi-jump (01 of 15)[GGC]
+SC985C:D8:65:Multi-jump (02 of 15)[GGC]
+SC9854:90:B0:Multi-jump (03 of 15)[GGC]
+SC985F:05:26:Multi-jump (04 of 15)[GGC]
+SC985A:05:0C:Multi-jump (05 of 15)[GGC]
+SC9861:05:08:Multi-jump (06 of 15)[GGC]
+SC9859:A9:D0:Multi-jump (07 of 15)[GGC]
+SC97D5:51:4F:Multi-jump (08 of 15)[GGC]
+SC93E7:51:4F:Multi-jump (09 of 15)[GGC]
+SC985B:8D:AD:Multi-jump (10 of 15)[GGC]
+SC9856:8D:AD:Multi-jump (11 of 15)[GGC]
+SC9851:A5:04:Multi-jump (12 of 15)[GGC]
+SC9831:A5:85:Multi-jump (13 of 15)[GGC]
+SC9852:26:C9:Multi-jump (14 of 15)[GGC]
+SC9853:0A:08:Multi-jump (15 of 15)[GGC]
+SB33F:01:Start with 9500 seconds[GGC]
+SC90C1:99:05:Start each stage with 99 hearts[GGC]
+001A:00:Remove invincibility blinking
+0032:01:Start on stage 02 (glitchy if you die)
+0032:02:Start on stage 03 (glitchy if you die)
+0032:03:Start on stage 04 (glitchy if you die)
+0032:04:Start on stage 05 (glitchy if you die)
+0032:05:Start on stage 06 (glitchy if you die)
+0032:06:Start on stage 07 (glitchy if you die)
+0032:07:Start on stage 08 (glitchy if you die)
+0032:08:Start on stage 09 (glitchy if you die)
+0032:09:Start on stage 10 (glitchy if you die)
+0032:0A:Start on stage 11 (glitchy if you die)
+0032:0B:Start on stage 12 (glitchy if you die)
+0032:0C:Start on stage 13 (glitchy if you die)
+0032:0D:Start on stage 14 (glitchy if you die)
+0032:0E:Start on stage 15 (glitchy if you die)
+0035:99:Infinite lives (alt)
+003A:01:Enable Sypha
+003A:02:Enable Grant
+003A:03:Enable Alucard
+003C:40:Infinite health (alt)
+0080:02:Invincibility (blinking) (disable if you cannot enter a door)
+0084:99:Infinite hearts
+0085:01:Trevor's sub-weapon - Axe
+0085:02:Trevor's sub-weapon - Cross
+0085:03:Trevor's sub-weapon - Dagger
+0085:04:Trevor's sub-weapon - Holy Water
+0086:05:Partner's sub-weapon - Fire Spell
+0086:06:Partner's sub-weapon - Ice Spell
+0086:07:Partner's sub-weapon - Lightning Spell
+0086:08:Partner's sub-weapon - Dagger
+0086:09:Partner's sub-weapon - Axe
+0086:0B:Partner's sub-weapon - Clock
+008E:02:Trevor has best Whip
+008F:02:Alucard has best attack

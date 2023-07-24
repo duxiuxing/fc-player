@@ -1,0 +1,43 @@
+SCE6D2:C5:A5:Invincibility[GGC]
+SCE8FA:A6:C6:Invincibility after one hit[GGC]
+SCC2F3:A9:C6:Infinite lives[GGC]
+SCA0AF:AD:20:Infinite time[GGC]
+SCDA58:A4:84:Infinite hearts (1 of 2)[GGC]
+SCDA8B:A4:84:Infinite hearts (2 of 2)[GGC]
+SCC991:28:05:Start with 40 hearts[GGC]
+SCC991:50:05:Start with 80 hearts[GGC]
+SCC317:2C:8D:Keep weapons after losing a life[GGC]
+SCE7B0:02:00:Gain triple shot on weapon pick-up[GGC]
+S971B:8F:Don't get knocked back when hit[GGC]
+S9B90:C5:Jump 3x as high[GGC]
+S9B90:E0:Jump 2x as high[GGC]
+SC941D:A9:8D:Multi-jump (01 of 12)[GGC]
+SC941E:01:43:Multi-jump (02 of 12)[GGC]
+SC941F:8D:01:Multi-jump (03 of 12)[GGC]
+SC9420:6C:EE:Multi-jump (04 of 12)[GGC]
+SC9421:04:6C:Multi-jump (05 of 12)[GGC]
+SC9422:4A:04:Multi-jump (06 of 12)[GGC]
+SC94CA:20:AD:Multi-jump (07 of 12)[GGC]
+SC94CB:01:14:Multi-jump (08 of 12)[GGC]
+SC94CC:94:05:Multi-jump (09 of 12)[GGC]
+SC9792:60:90:Multi-jump (10 of 12)[GGC]
+SC948C:8E:E5:Multi-jump (11 of 12)[GGC]
+SC948D:94:A1:Multi-jump (12 of 12)[GGC]
+SCC97A:01:04:Start with 1 life (1 of 2)[GGC]
+SCC875:01:04:Start with 1 life (2 of 2)[GGC]
+SCC97A:08:04:Start with 8 lives (1 of 2)[GGC]
+SCC875:08:04:Start with 8 lives (2 of 2)[GGC]
+SCB990:AE:8E:Start on last level (1 of 3)[GGC]
+SCB988:09:03:Start on last level (2 of 3)[GGC]
+SCB98D:12:00:Start on last level (3 of 3)[GGC]
+002A:63:Infinite lives (alt)
+0045:40:Infinite health
+005B:02:Invincibility (blinking)
+0070:02:Have the best Whip
+0071:63:Infinite hearts (disable at end of stage)
+015B:08:Have the Knife
+015B:09:Have the Cross
+015B:0B:Have the Holy Water
+015B:0D:Have the Axe
+015B:0F:Have the Stopwatch
+01A9:00:Bosses have no health

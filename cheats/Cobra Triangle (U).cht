@@ -1,0 +1,70 @@
+SCAB6C:60:D0:Invincibility[GGC]
+SCA63A:AD:CE:Infinite continue options[GGC]
+SCE90F:AD:CE:Don't lose life after dying from damage[GGC]
+SCE965:AD:CE:Don't lose life after dying from time running out[GGC]
+SCE6A1:F0:8D:Never lose your power-ups (1 of 2)[GGC]
+SCE6A2:0B:28:Never lose your power-ups (2 of 2)[GGC]
+SC83A8:EE:8D:Gain an extra minute (1 of 2)[GGC]
+SC83A9:13:15:Gain an extra minute (2 of 2)[GGC]
+SCB421:D0:B0:Hit anywhere (1 of 6)[GGC]
+SCACC2:D0:B0:Hit anywhere (2 of 6)[GGC]
+SCB432:9C:97:Hit anywhere (3 of 6)[GGC]
+SCAD49:B9:99:Hit anywhere (4 of 6)[GGC]
+SCB422:0E:12:Hit anywhere (5 of 6)[GGC]
+SCACC3:17:1A:Hit anywhere (6 of 6)[GGC]
+0714:05:Infinite time (disable before finishing a level) (alt)
+072B:03:Max Speed
+072C:03:Max Missile power
+0738:09:Infinite lives
+00A3:00:Only 1 mine needed for mine removing stages
+00B9:1A:Invincibility (blinking)
+05F5:0C:Infinite health
+05FF:00:Boss HP will be at minimum
+0702:02:Start on stage 02 (disable after stage begins) (1 of 2)
+0737:01:Start on stage 02 (disable after stage begins) (2 of 2)
+0702:03:Start on stage 03 (disable after stage begins) (1 of 2)
+0737:02:Start on stage 03 (disable after stage begins) (2 of 2)
+0702:04:Start on stage 04 (disable after stage begins) (1 of 2)
+0737:03:Start on stage 04 (disable after stage begins) (2 of 2)
+0702:05:Start on stage 05 (disable after stage begins) (1 of 2)
+0737:04:Start on stage 05 (disable after stage begins) (2 of 2)
+0702:06:Start on stage 06 (disable after stage begins) (1 of 2)
+0737:05:Start on stage 06 (disable after stage begins) (2 of 2)
+0702:07:Start on stage 07 (disable after stage begins) (1 of 2)
+0737:06:Start on stage 07 (disable after stage begins) (2 of 2)
+0702:08:Start on stage 08 (disable after stage begins) (1 of 2)
+0737:07:Start on stage 08 (disable after stage begins) (2 of 2)
+0702:09:Start on stage 09 (disable after stage begins) (1 of 2)
+0737:08:Start on stage 09 (disable after stage begins) (2 of 2)
+0702:0A:Start on stage 10 (disable after stage begins) (1 of 2)
+0737:09:Start on stage 10 (disable after stage begins) (2 of 2)
+0702:0B:Start on stage 11 (disable after stage begins) (1 of 2)
+0737:0A:Start on stage 11 (disable after stage begins) (2 of 2)
+0702:0C:Start on stage 12 (disable after stage begins) (1 of 2)
+0737:0B:Start on stage 12 (disable after stage begins) (2 of 2)
+0702:0D:Start on stage 13 (disable after stage begins) (1 of 2)
+0737:0C:Start on stage 13 (disable after stage begins) (2 of 2)
+0702:0E:Start on stage 14 (disable after stage begins) (1 of 2)
+0737:0D:Start on stage 14 (disable after stage begins) (2 of 2)
+0702:0F:Start on stage 15 (disable after stage begins) (1 of 2)
+0737:0E:Start on stage 15 (disable after stage begins) (2 of 2)
+0702:10:Start on stage 16 (disable after stage begins) (1 of 2)
+0737:0F:Start on stage 16 (disable after stage begins) (2 of 2)
+0702:11:Start on stage 17 (disable after stage begins) (1 of 2)
+0737:10:Start on stage 17 (disable after stage begins) (2 of 2)
+0702:12:Start on stage 18 (disable after stage begins) (1 of 2)
+0737:11:Start on stage 18 (disable after stage begins) (2 of 2)
+0702:13:Start on stage 19 (disable after stage begins) (1 of 2)
+0737:12:Start on stage 19 (disable after stage begins) (2 of 2)
+0702:14:Start on stage 20 (disable after stage begins) (1 of 2)
+0737:13:Start on stage 20 (disable after stage begins) (2 of 2)
+0702:15:Start on stage 21 (disable after stage begins) (1 of 2)
+0737:14:Start on stage 21 (disable after stage begins) (2 of 2)
+0702:16:Start on stage 22 (disable after stage begins) (1 of 2)
+0737:15:Start on stage 22 (disable after stage begins) (2 of 2)
+0702:17:Start on stage 23 (disable after stage begins) (1 of 2)
+0737:16:Start on stage 23 (disable after stage begins) (2 of 2)
+0702:18:Start on stage 24 (disable after stage begins) (1 of 2)
+0737:17:Start on stage 24 (disable after stage begins) (2 of 2)
+0702:19:Start on stage 25 (disable after stage begins) (1 of 2)
+0737:18:Start on stage 25 (disable after stage begins) (2 of 2)

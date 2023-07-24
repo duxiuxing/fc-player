@@ -1,0 +1,23 @@
+SCDC5F:24:E5:Immune to weapon damage[GGC]
+SC81B0:AD:CE:Start with infinite lives[GGC]
+SCE23C:00:04:Start with 1 life[GGC]
+SCE23C:08:04:Start with 9 lives[GGC]
+05A5:01:Start with Dual Gun
+05A5:02:Start with ATG
+05A5:03:Start with Rapid Fire
+05A5:04:Start with 3-Way Gun
+05A6:01:Start with Twin Missile
+05A6:02:Start with Homing Missile
+05A6:03:Start with Homing Missile 1
+05A6:04:Start with Homing Missile 2
+05A6:05:Start with Firebomb
+05A6:06:Start with Mines
+05A7:01:Start with Armor
+05A7:02:Start with Super Armor
+05A7:03:Start with Hyper Armor
+05A8:01:Start with Turbo Engine
+05A8:02:Start with Super Engine
+05A8:03:Start with Hyper Engine
+05A9:00:Start with Rope
+05A9:01:Start with Ladder
+05BB:09:Start with infinite lives (alt)

@@ -1,0 +1,7 @@
+SCB01F:01:03:1 foul loses the game (instead of 3) - only in 10-ball in party mode[GGC]
+SCB01F:02:03:2 fouls in a row loses the game - only on 9 and 10-ball in party mode[GGC]
+SCBA7C:BD:9D:Fouls don't count - only on 9 and 10-ball and rotation in party mode[GGC]
+SCBA92:BD:9D:Number of fouls is not cleared after a good shot (3 fouls don't have to be in a row to lose) - only on 10-ball in party mode[GGC]
+SC806E:A9:A5:Always break in XX (1 of 2)[GGC]
+SC806F:00:ED:Always break in 9 or 10-ball (2 of 2) - P1[GGC]
+SC806F:01:ED:Always break in 9 or 10-ball (2 of 2) - P2[GGC]

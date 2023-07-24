@@ -1,0 +1,46 @@
+SCE2C9:AD:20:Invincibility[GGC]
+SD467:B5:Invincibility (blinking)[GGC]
+SCD466:00:05:Invincibility (blinking) (alt)[GGC]
+SDA03:B5:Start with infinite lives[GGC]
+SDAD3:2C:Keep weapons after losing life[GGC]
+SCD54A:60:A9:Multi-jump - both players (1 of 7)[GGC]
+SCD476:20:B5:Multi-jump - both players (2 of 7)[GGC]
+SCD477:9F:B0:Multi-jump - both players (3 of 7)[GGC]
+SCD480:B5:D6:Multi-jump - both players (4 of 7)[GGC]
+SCD9E9:B5:95:Multi-jump - both players (5 of 7)[GGC]
+SCD478:D6:F0:Multi-jump - both players (6 of 7)[GGC]
+SCD479:EA:08:Multi-jump - both players (7 of 7)[GGC]
+SCD6EF:FB:FC:Jump higher (1 of 2)[GGC]
+SCD6E9:FA:FB:Jump higher (2 of 2)[GGC]
+SCE388:D0:90:Hit anywhere (1 of 4)[GGC]
+SCE3A1:24:B0:Hit anywhere (2 of 4)[GGC]
+SCE37F:24:B0:Hit anywhere (3 of 4)[GGC]
+SCE3C7:AD:20:Hit anywhere (4 of 4)[GGC]
+SCD761:FE:FF:Run twice as fast (1 of 2)[GGC]
+SCD75D:02:01:Run twice as fast (2 of 2)[GGC]
+SCD04D:3B:25:Press Start to complete the level[GGC]
+SDAD2:01:Start new life with Machine Gun[GGC]
+SDAD2:02:Start new life with Fireball[GGC]
+SDAD2:03:Start new life with Spread Gun[GGC]
+SDAD2:04:Start new life with Laser[GGC]
+SCC479:30:3F:Start on level x[GGC]
+SCC475:01:00:Start on level 2[GGC]
+SCC475:02:00:Start on level 3[GGC]
+SCC475:03:00:Start on level 4[GGC]
+SCC475:04:00:Start on level 5[GGC]
+SCC475:05:00:Start on level 6[GGC]
+SCC475:06:00:Start on level 7[GGC]
+SCC475:07:00:Start on level 8[GGC]
+0032:99:Have 99 lives
+00AA:01:Have Machine Gun - P1
+00AA:02:Have Fireball - P1
+00AA:03:Have Spread Gun - P1
+00AA:04:Have Laser - P1
+00AA:18:Have Clone Attack (glitch weapon) - P1
+00AB:01:Have Machine Gun - P2
+00AB:02:Have Fireball - P2
+00AB:03:Have Spread Gun - P2
+00AB:04:Have Laser - P2
+00AE:41:Invincibility (blinking) (alt 2)
+00B0:FE:Invincibility (star effect) - P1
+00B1:FE:Invincibility (star effect) - P2

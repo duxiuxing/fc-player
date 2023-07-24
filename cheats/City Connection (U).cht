@@ -1,0 +1,13 @@
+SCD17E:A5:C6:Infinite lives[GGC]
+SC85CF:05:02:Start with double lives[GGC]
+SC85CF:08:02:Start with triple lives[GGC]
+SC94C2:A5:C6:Infinite Oil[GGC]
+SC85D1:20:05:Start with extra Oil[GGC]
+SC85CD:01:00:Start on level 1[GGC]
+SC85CD:02:00:Start on level 2[GGC]
+SC85CD:03:00:Start on level 3[GGC]
+SC85CD:04:00:Start on level 4[GGC]
+SC85CD:05:00:Start on level 5[GGC]
+00A2:09:Infinite lives - both players
+00A4:63:Infinite Oil - both players
+00A5:FF:MI is very high

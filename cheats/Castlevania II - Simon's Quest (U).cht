@@ -1,0 +1,45 @@
+SCD35F:A5:85:Infinite health[GGC]
+SCC294:24:C6:Infinite lives[GGC]
+SCD921:05:C6:Infinite Laurels[GGC]
+SCD935:A5:C6:Infinite Garlic[GGC]
+SCD79B:A5:85:Always daytime[GGC]
+S8762:84:Small hearts worth 100[GGC]
+SC89D9:80:10:Multi-jump (01 of 11)[GGC]
+SC89DA:D0:13:Multi-jump (02 of 11)[GGC]
+SC89DB:0C:A0:Multi-jump (03 of 11)[GGC]
+SC89DD:4C:20:Multi-jump (04 of 11)[GGC]
+SC89DF:89:86:Multi-jump (05 of 11)[GGC]
+SC89D8:29:03:Multi-jump (06 of 11)[GGC]
+SC89D7:F5:6C:Multi-jump (07 of 11)[GGC]
+SC89D6:A5:AD:Multi-jump (08 of 11)[GGC]
+SC89E9:FB:00:Multi-jump (09 of 11)[GGC]
+SC89DE:EE:ED:Multi-jump (10 of 11)[GGC]
+SC89DC:EA:F0:Multi-jump (11 of 11)[GGC]
+SD639:00:Whip can destroy any block (1 of 4)[GGC]
+SD628:00:Whip can destroy any block (2 of 4)[GGC]
+SD65D:10:Whip can destroy any block (3 of 4)[GGC]
+SD691:EA:Whip can destroy any block (4 of 4)[GGC]
+S88D8:75:Whip destroys all enemies/townspeople on screen[GGC]
+SF12C:09:Start with 100 Experience (E)[GGC]
+SCC55E:50:30:Start with more health[GGC]
+SCC553:01:03:Start with 1 life[GGC]
+SCC553:06:03:Start with 6 lives[GGC]
+SCC553:09:03:Start with 9 lives[GGC]
+SCC55A:25:50:Start with 25 hearts[GGC]
+SCC55A:75:50:Start with 75 hearts[GGC]
+0031:03:Infinite lives (alt)
+0048:F0:Infinite hearts
+004A:7F:Have all Daggers, Holy Water, Diamond, Flame and Oak Stake
+004C:99:Infinite Laurels (alt)
+004D:08:Infinite Garlic on pick-up
+0080:50:Infinite health (alt)
+0085:02:Always daytime (alt)
+0091:20:Have White Crystal
+0091:3F:Have all Dracula's parts and White Crystal
+0091:40:Have Blue Crystal
+0091:5F:Have all Dracula's parts and Blue Crystal
+0091:60:Have Red Crystal
+0091:7F:Have all Dracula's parts and Red Crystal
+0092:0F:Have Garlic, Laurels, Silk Bag and Magic Cross
+0434:04:Have Fire Whip
+04F8:02:Invincibility

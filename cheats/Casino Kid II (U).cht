@@ -1,0 +1,8 @@
+SCC14F:20:4E:Start new game with $82 instead of $200[GGC]
+SCC14F:C8:4E:Start new game with $512[GGC]
+SCC154:20:00:Start new game with $21,171[GGC]
+SCC154:C8:00:Start new game with $131,272[GGC]
+SCC159:08:00:Start new game with $1,342,377[GGC]
+SCC159:20:00:Start new game with $5,368,909[GGC]
+SC8C15:09:05:Can't double down in blackjack (game will say you do not have enough money)[GGC]
+SC8D46:09:05:Can't split in blackjack (game will say you do not have enough money)[GGC]

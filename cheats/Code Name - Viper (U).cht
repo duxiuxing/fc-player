@@ -1,0 +1,32 @@
+SCD55C:AD:20:Invincibility[GGC]
+SC9966:ED:F9:Infinite health (1 of 2)[GGC]
+SC9A5E:00:01:Infinite health (2 of 2)[GGC]
+SC996D:AD:8D:Infinite health (alt)[GGC]
+SCEF1C:AD:CE:Infinite lives[GGC]
+SCA21B:00:01:Infinite Machine Gun[GGC]
+SCA1FA:00:01:Infinite Gun[GGC]
+SCEF18:64:32:Double usual bullets on new life[GGC]
+SCEF18:19:32:Half bullets on new life[GGC]
+SCE4FC:EE:8D:Start with Machine Gun and 256 bullets[GGC]
+SCEF11:EE:8D:Machine Gun with 256 bullets on new life[GGC]
+SC8FCE:AD:B9:Upper level jump (1 of 2)[GGC]
+SC908F:F9:FA:Upper level jump (2 of 2)[GGC]
+SCEF11:2C:8D:Keep Machine Gun after dying (1 of 2)[GGC]
+SCEF0E:2C:8D:Keep Machine Gun after dying (2 of 2)[GGC]
+SCD856:00:38:Hit anywhere (1 of 4)[GGC]
+SC9C1D:10:03:Hit anywhere (2 of 4)[GGC]
+SC9C20:34:13:Hit anywhere (3 of 4)[GGC]
+SC9C1C:AD:BD:Hit anywhere (4 of 4)[GGC]
+SCD58D:00:04:Have Bomb (can exit level without the Bomb)[GGC]
+SCE4F0:01:03:Start with 1 life[GGC]
+SCE4F0:06:03:Start with 6 lives[GGC]
+SCE4F0:09:03:Start with 9 lives[GGC]
+SCE503:64:32:Start with double usual bullets[GGC]
+SCE503:19:32:Start with half usual bullets[GGC]
+06E0:3F:Infinite Gun (alt)
+06E2:3F:Infinite Machine Gun (alt)
+06E8:0A:Infinite lives (alt)
+06EA:09:Have all children rescued
+06EC:09:Have all adults rescued
+06F8:04:Infinite health (alt 2)
+0757:FF:Have all adults and children rescued
