@@ -1,0 +1,17 @@
+SC8556:AD:CE:Infinite lives[GGC]
+SC876F:AD:8D:Infinite shells[GGC]
+SC855B:AD:4E:Don't lose shells on dying[GGC]
+SC855E:AD:CE:Don't lose power on dying[GGC]
+SCA671:00:26:Collect shells from anywhere[GGC]
+SC85C9:00:14:Jaws has no health (1 of 3)[GGC]
+SC82DC:00:14:Jaws has no health (2 of 3)[GGC]
+SC854D:AD:8D:Jaws has no health (3 of 3)[GGC]
+SCA685:00:05:99 Shells on pick-up[GGC]
+SC8294:01:03:Start with 1 life[GGC]
+SC8294:06:03:Start with double lives[GGC]
+0387:09:Infinite lives (alt)
+0389:00:Jaws has very little health
+0393:09:Infinite Strobes
+8515:3A:Exit stage when hit instead of dying
+993D:10:Jaws is attacked without actually shooting him
+9966:07:Invincibility (disable to collect items)

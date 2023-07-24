@@ -1,0 +1,40 @@
+SCE825:AD:20:Invincibility (1 of 2)[GGC]
+SCE8B4:AD:20:Invincibility (2 of 2)[GGC]
+SC8011:A5:C6:Invincibility after first hit (blinking)[GGC]
+SCEA3B:A5:85:Infinite health[GGC]
+SC8E33:A5:85:Infinite weapon power[GGC]
+SCDCC9:1F:02:Start with all six weapons[GGC]
+SCC3F7:A5:C6:Infinite lives[GGC]
+SCDE19:01:03:Start with 1 life[GGC]
+SCDE19:06:03:Start with 6 lives[GGC]
+SCDE19:09:03:Start with 9 lives[GGC]
+SCDBE3:01:03:1 life after continue[GGC]
+SCDBE3:06:03:6 lives after continue[GGC]
+SCDBE3:09:03:9 lives after continue[GGC]
+SCDCC9:01:02:Start with Machine Gun[GGC]
+SCDCC9:04:02:Start with Laser Gun[GGC]
+SCDCC9:08:02:Start with Homing Missiles[GGC]
+SCDCC9:10:02:Start with Grenade Launcher[GGC]
+SCDCC9:05:02:Start with Machine Gun and Laser Gun[GGC]
+SCEA39:E9:E5:Protection against most aliens[GGC]
+SCE824:08:02:Some aliens are tougher[GGC]
+SCE824:01:02:Some aliens are weaker[GGC]
+SC819E:16:0B:Mega-jump[GGC]
+SC8163:20:01:Speed jump (1 of 2)[GGC]
+SC80FF:E0:FF:Speed jump (2 of 2)[GGC]
+SC80FB:EC:FC:Super speed (1 of 2)[GGC]
+SC815F:13:04:Super speed (2 of 2)[GGC]
+00B0:0F:Infinite health (alt)
+0053:09:Infinite lives (alt)
+00B1:3F:Infinite weapon power (alt)
+00B8:01:Have Machine Gun
+00B8:02:Have Shot Gun
+00B8:03:Have Laser Gun
+00B8:04:Have Homing Missile
+00B8:05:Have Grenade Launcher
+040F:00:One hit kills on bosses (2 of 2)
+04FF:00:One hit kills on bosses (1 of 2)
+0170:01:Start on stage 2
+0170:02:Start on stage 3
+0170:03:Start on stage 4
+0170:04:Start on stage 5 (final stage)

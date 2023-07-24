@@ -1,0 +1,18 @@
+SCB177:D0:F0:Invincibility (1 of 2)[GGC]
+SCB17F:F0:D0:Invincibility (2 of 2)[GGC]
+SCF570:AD:9D:Infinite health[GGC]
+SCE076:01:06:Start with 2 lives[GGC]
+SCE076:0E:06:Start with 15 lives[GGC]
+SCC98D:AD:CE:Infinite lives[GGC]
+SCE090:EA:8A:Start with some weapons[GGC]
+SCFB7D:00:01:Infinite weapons (Bombs, Flares, Nukes, Bullets)[GGC]
+SC9FD8:3F:1F:Slow down rate of air loss (scuba mode)[GGC]
+SC9FD8:0F:1F:Speed up rate of air loss[GGC]
+SCF532:24:E5:Shield doesn't take damage from bullets[GGC]
+SCF561:24:E5:Immune to most damage[GGC]
+01F9:09:Infinite time (minute ten's digit)
+01FA:09:Infinite time (minute one's digit)
+01FB:09:Infinite time (second ten's digit)
+01FC:09:Infinite time (second one's digit)
+040F:63:Infinite Pistol ammo
+042C:09:Infinite lives (alt)

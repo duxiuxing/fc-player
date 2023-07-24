@@ -1,0 +1,17 @@
+SCE5BA:50:D0:Invincibility - both players[GGC]
+SED15:A5:Infinite lives - both players[GGC]
+SCA1A:01:Start with 1 life - both players[GGC]
+SCA1A:09:Start with 9 lives - both players[GGC]
+SECA5:24:Keep weapons after death[GGC]
+SECA4:03:Full weapons after death[GGC]
+0030:01:Start on level 2
+0030:02:Start on level 3
+0030:03:Start on level 4
+0030:04:Start on level 5
+0030:05:Start on level 6
+0031:09:Infinite lives
+07E4:99:Max score (1 of 3)
+07E5:99:Max score (2 of 3)
+07E6:99:Max score (3 of 3)
+0530:01:Invincibility - P1
+0531:01:Invincibility - P2
