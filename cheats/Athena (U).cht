@@ -1,0 +1,11 @@
+SCA533:24:85:Infinite health (after first 2 units)[GGC]
+SCB733:00:01:Infinite time[GGC]
+SCF1CB:00:02:Start with 1 life[GGC]
+SCF1CB:05:02:Start with 6 lives[GGC]
+SCF1CB:08:02:Start with 9 lives[GGC]
+SCF1CF:20:0C:Start with energy boost[GGC]
+SCE758:07:05:Start with extra time[GGC]
+SCE758:04:05:Start with less time[GGC]
+0092:59:Infinite time (alt)
+0095:0F:Infinite health
+009B:09:Infinite lives

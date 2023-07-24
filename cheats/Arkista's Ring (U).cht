@@ -1,0 +1,49 @@
+SC854E:01:03:Start with 1 life[GGC]
+SC854E:06:03:Start with 6 lives[GGC]
+SC854E:09:03:Start with 9 lives[GGC]
+SCBC32:AD:CE:Infinite lives[GGC]
+SC8546:02:05:Start with fewer hearts[GGC]
+SC8546:09:05:Start with more hearts[GGC]
+SC9507:03:0F:Less damage from powerful monsters[GGC]
+SC9516:24:E5:Infinite health[GGC]
+SC8534:15:0B:Start with 20 continues[GGC]
+SC8534:06:0B:Start with 5 continues[GGC]
+0001:FF:Unlock doors (enable only when at a door otherwise you'll move very slowly)
+0022:40:Have Fire Ball
+03D0:01:Start on stage 02
+03D0:02:Start on stage 03
+03D0:03:Start on stage 04
+03D0:04:Start on stage 05
+03D0:05:Start on stage 06
+03D0:06:Start on stage 07
+03D0:07:Start on stage 08
+03D0:08:Start on stage 09
+03D0:09:Start on stage 10
+03D0:0A:Start on stage 11
+03D0:0B:Start on stage 12
+03D0:0C:Start on stage 13
+03D0:0D:Start on stage 14
+03D0:0E:Start on stage 15
+03D0:0F:Start on stage 16
+03D0:10:Start on stage 17
+03D0:11:Start on stage 18
+03D0:12:Start on stage 19
+03D0:13:Start on stage 20
+03D0:14:Start on stage 21
+03D0:15:Start on stage 22
+03D0:16:Start on stage 23
+03D0:17:Start on stage 24
+03D0:18:Start on stage 25
+03D0:19:Start on stage 26
+03D0:1A:Start on stage 27
+03D0:1B:Start on stage 28
+03D0:1C:Start on stage 29
+03D0:1D:Start on stage 30
+03D0:1E:Start on stage 31
+03D3:07:Have Ultimate Bow status
+03D4:07:Have Ultimate Arrow status
+03D5:0A:Have all armor (1 of 2)
+03D6:05:Infinite health (alt)
+03D6:0A:Have all armor (2 of 2)
+03D7:03:Max item slots
+03DC:FF:Have Ring, Necklace, Mirror

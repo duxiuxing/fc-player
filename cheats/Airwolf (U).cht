@@ -1,0 +1,13 @@
+S82E1:BD:Infinite lives[GGC]
+SAF6D:BD:Infinite health[GGC]
+SCCD36:01:03:Start with 1 life[GGC]
+SCCD36:06:03:Start with 6 lives[GGC]
+SCCD36:09:03:Start with 9 lives[GGC]
+SCCCAC:61:5B:Start at last mission reached[GGC]
+SC8261:1E:0F:Start with 30 missiles[GGC]
+SC8261:2D:0F:Start with 45 missiles[GGC]
+SCA1D0:24:C6:Start with infinite missiles[GGC]
+SC85E5:05:0F:Sets missiles to 5 when you refuel[GGC]
+SC85E5:1E:0F:Sets missiles to 30 when you refuel[GGC]
+00B9:00:Infinite health (alt)
+036C:02:Infinite lives (alt)

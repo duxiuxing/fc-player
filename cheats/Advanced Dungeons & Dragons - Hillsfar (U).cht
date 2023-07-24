@@ -1,0 +1,8 @@
+SCB3B5:10:20:Faster timer when lock-picking[GGC]
+SCB3B5:50:20:Slower timer when lock-picking[GGC]
+SCB3B5:F0:20:Very slow timer when lock-picking[GGC]
+SCB5CE:AD:CE:Infinite Knock Rings (1 of 2)[GGC]
+SCB5CD:00:58:Infinite Knock Rings (2 of 2)[GGC]
+SC8CE7:05:0A:Start with 50% less gold on a character that you create[GGC]
+SC8CE7:0F:0A:Start with 50% more gold on a character that you create[GGC]
+SC8CE7:14:0A:Start with 100% more gold on a character that you create[GGC]

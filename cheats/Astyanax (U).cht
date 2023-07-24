@@ -1,0 +1,14 @@
+SC8174:F0:D0:Invincibility[GGC]
+SCC38C:30:18:Infinite SP (spell)[GGC]
+SCC536:A5:85:Infinite health[GGC]
+SC8A46:28:14:Double health and SP[GGC]
+SC8A4C:01:00:Start with Blast Spell[GGC]
+SC8A4C:02:00:Start with Bind Spell[GGC]
+SC8A42:14:04:Start with extra weapon power[GGC]
+SCCB30:AD:CE:Keep weapons after death[GGC]
+SC8CBB:05:02:Start with double lives (1 of 2)[GGC]
+SC8A52:05:02:Start with double lives (2 of 2)[GGC]
+SC8CBB:08:02:Start with triple lives (1 of 2)[GGC]
+SC8A52:08:02:Start with triple lives (2 of 2)[GGC]
+007D:03:Invincibility (alt)
+0096:03:Infinite lives
