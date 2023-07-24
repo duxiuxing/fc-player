@@ -41,6 +41,7 @@
         cover-cart-2d="true"
         cover-cart-3d="true"
         cheat="true"
+        screenshot="true"
     />
     <Game en="720 Degrees (U).nes"
         md5="448431d360ac64bfb9332cb261775307"
