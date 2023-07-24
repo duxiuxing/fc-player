@@ -1,0 +1,8 @@
+SCF9D1:A5:C6:Infinite health[GGC]
+SC86E7:A5:C6:Infinite lives[GGC]
+SCFC19:09:00:Start with weapons[GGC]
+SCC332:05:09:Less rocks on pick-up[GGC]
+SCF606:AD:CE:Infinite rocks on pick-up[GGC]
+SCB38D:AD:CE:Infinite rope on pick-up[GGC]
+SCA08E:AD:CE:Infinite dynamite on pick-up[GGC]
+0187:09:Infinite time (disable before exiting stage)

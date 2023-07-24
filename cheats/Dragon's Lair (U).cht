@@ -1,0 +1,18 @@
+SCD0AC:00:FC:Infinite E (health)[GGC]
+SCD626:00:FF:Infinite lives[GGC]
+SCF769:05:10:Less energy gained on pick-up[GGC]
+SCF769:27:10:More energy gained on pick-up[GGC]
+SCF9C3:AD:CE:Infinite Candle energy (1 of 2)[GGC]
+SCF9E2:AD:CE:Infinite Candle energy (2 of 2)[GGC]
+SCD5AC:F7:FB:Start with 1 extra life[GGC]
+SCD5AC:FC:FB:Start with 6 extra lives[GGC]
+SCD5AC:FF:FB:Start with 9 extra lives[GGC]
+SCD5B4:01:00:Start with Axe[GGC]
+SCD5B4:02:00:Start with Fireball[GGC]
+SCD57A:01:00:Start on level 2[GGC]
+SCD57A:02:00:Start on level 3[GGC]
+SCD57A:03:00:Start on level 4[GGC]
+0330:1F:Infinite E (health) (alt)
+05EA:FF:Infinite Gold (hundred's digit)
+05EB:FF:Infinite Gold (ten's digit)
+05EC:FF:Infinite Gold (one's digit)

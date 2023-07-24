@@ -1,0 +1,24 @@
+SCF34D:FF:9F:Start with more fuel[GGC]
+SCF34D:5F:9F:Start with less fuel[GGC]
+SCF381:AD:BD:Faster acceleration[GGC]
+SC9A68:00:FF:Tires don't burst[GGC]
+SC9CAD:F5:F8:Better left-hand cornering[GGC]
+SCF3BB:05:03:Maximum acceleration (1 of 2)[GGC]
+SCF381:AD:BD:Maximum acceleration (2 of 2)[GGC]
+021F:FF:Infinite fuel
+0463:02:Lap 02
+0463:03:Lap 03
+0463:04:Lap 04
+0463:05:Lap 05
+0463:06:Lap 06
+0463:07:Lap 07
+0463:08:Lap 08
+0463:09:Lap 09
+0463:0A:Lap 10
+0464:01:Always 1st place
+046C:00:Always excellent condition - front left tire
+046D:00:Always excellent condition - front right tire
+046E:00:Always excellent conditon - rear left tire
+046F:00:Always excellent condition - rear right tire
+0471:00:Always excellent condition - engine
+0473:15:Max speed

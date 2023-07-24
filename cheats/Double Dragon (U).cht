@@ -1,0 +1,20 @@
+SCE2B3:88:02:Infinite lives[GGC]
+SCE2B3:00:02:Start with 1 life[GGC]
+SCE2B3:05:02:Start with 6 lives[GGC]
+SCE2B3:08:02:Start with 9 lives[GGC]
+SCFBC2:C6:E6:Gain hearts quickly[GGC]
+SFBDF:C0:Gain a heart every time you hit an enemy[GGC]
+SCF84A:EA:4A:More health - P2 or computer[GGC]
+SCF841:EA:4A:More health - P1[GGC]
+S9959:5D:No enemies[GGC]
+S8959:5D:Enemies will not fight back[GGC]
+SCCE9:9C:Slow motion[GGC]
+SCF33F:00:01:Infinite time[GGC]
+SCF332:20:30:Timer will count down faster[GGC]
+SCF332:10:30:Timer will count down super-fast[GGC]
+SD32D:FF:Disable level 4 wall trap[GGC]
+003D:01:Start on mission 2 (disable after stage begins)
+003D:02:Start on mission 3 (disable after stage begins)
+003D:03:Start on mission 4 (disable after stage begins)
+0040:07:Start with all hearts
+03B4:64:Infinite health

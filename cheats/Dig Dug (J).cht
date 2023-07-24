@@ -1,0 +1,5 @@
+0060:03:Infinite lives - both players
+006E:18:Start on stage 25 (disable after loading stage)
+006E:31:Start on stage 50 (disable after loading stage)
+006E:4A:Start on stage 75 (disable after loading stage)
+006E:63:Start on stage 99 (disable after loading stage)

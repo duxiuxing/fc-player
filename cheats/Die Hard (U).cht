@@ -1,0 +1,37 @@
+SCA786:A5:85:Infinite health against Pistol ammo[GGC]
+SCA795:A5:85:Infinite health against Submachine Gun ammo[GGC]
+SCA7A3:A5:85:Infinite health against punches[GGC]
+SC8273:60:CE:Infinite Pistol ammo[GGC]
+SC827D:60:CE:Infinite Submachine Gun ammo[GGC]
+SC826D:60:A5:Infinite ammo on all guns[GGC]
+SCF1BC:60:A5:Infinite time[GGC]
+SCC19D:01:10:Start with 1 life point instead of 16[GGC]
+SCC19D:02:10:Start with 2 life points[GGC]
+SCC19D:04:10:Start with 4 life points[GGC]
+SCC19D:08:10:Start with 8 life point[GGC]
+SCC19D:0C:10:Start with 12 life points[GGC]
+SCC19D:14:10:Start with 20 life points[GGC]
+SCF397:AD:8D:Lose foot health very slowly[GGC]
+SCC1A1:00:0F:Start with no Pistol ammo instead of 15[GGC]
+SCC1A1:05:0F:Start with 5 Pistol ammo[GGC]
+SCC1A1:0A:0F:Start with 10 Pistol ammo[GGC]
+SCC1A1:14:0F:Start with 20 Pistol ammo[GGC]
+SCC1A1:19:0F:Start with 25 Pistol ammo[GGC]
+SCF1B1:F0:3C:Time runs at 1/4 normal speed[GGC]
+SCF1B1:B4:3C:Time runs at 1/3 normal speed[GGC]
+SCF1B1:78:3C:Time runs at 1/2 normal speed[GGC]
+SCF1B1:1E:3C:Time runs at 2x normal speed[GGC]
+SCF1B1:14:3C:Time runs at 3x normal speed[GGC]
+SCF1B1:0F:3C:Time runs at 4x normal speed[GGC]
+00A5:05:Invincibility
+00A8:00:Immune to flashes
+00AB:00:0 crooks left
+00AC:10:Infinite health (alt)
+00AF:60:Infinite time (alt)
+0779:FF:Have all items
+077A:14:Infinite pistol ammo (alt)
+077B:64:Infinite Submachine Gun ammo (alt)
+077C:07:Infinite Submachine Gun cartridges
+077D:05:Infinite C4
+077E:07:Infinite flashes
+0798:00:Infinite feet health

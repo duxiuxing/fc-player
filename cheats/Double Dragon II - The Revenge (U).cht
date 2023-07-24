@@ -1,0 +1,23 @@
+S9021:72:No enemies[GGC]
+SC8427:AD:DE:Never lose lives from falling[GGC]
+SC8A97:AD:DE:Never lose lives from low energy[GGC]
+SC8B6D:AD:DE:Never lose lives from water[GGC]
+SCBB68:01:02:Uppercut after only two punches[GGC]
+SCED89:FF:00:Slow down gameplay[GGC]
+SCEE58:FF:04:Start with 259 lives - P1[GGC]
+SCEE58:08:04:Start with 8 lives - P1[GGC]
+SCEE6D:08:04:Start with 8 lives - P2[GGC]
+SCEE58:01:04:Start with 1 life - P1[GGC]
+SCEE6D:01:04:Start with 1 life - P2[GGC]
+SCEE32:01:00:Start on mission 2[GGC]
+SCEE32:02:00:Start on mission 3[GGC]
+SCEE32:03:00:Start on mission 4[GGC]
+SCEE32:05:00:Start on mission 5[GGC]
+SCEE32:06:00:Start on mission 6[GGC]
+SCEE32:09:00:Start on mission 7[GGC]
+SCEE32:0C:00:Start on mission 8[GGC]
+SCEE32:0E:00:Start at final boss[GGC]
+SEE32:0E:Start at final boss (alt)[GGC]
+03CC:F0:Invincibility
+0420:00:Enemies die after one knockdown (disable at final boss) (1 of 2)
+0421:00:Enemies die after one knockdown (disable at final boss) (2 of 2)

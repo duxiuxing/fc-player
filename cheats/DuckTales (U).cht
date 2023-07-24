@@ -1,0 +1,32 @@
+SCE35A:D0:F0:Invincibility (1 of 2)[GGC]
+SC800C:D0:F0:Invincibility (2 of 2)[GGC]
+SCEB6A:60:A0:Infinite health[GGC]
+SCEB7D:00:01:Infinite health (alt)[GGC]
+SCDCB0:AD:CE:Infinite lives[GGC]
+SCDB0B:00:02:Start with 1 life[GGC]
+SCDB0B:05:02:Start with 6 lives[GGC]
+SCDB0B:08:02:Start with 9 lives[GGC]
+SCEB67:03:01:Lose half normal health (in easy game)[GGC]
+SCE2B8:E9:E5:Infinite time[GGC]
+SCDB2C:0A:05:Double usual time (1 of 3)[GGC]
+SCDCF3:AD:B9:Double usual time (2 of 3)[GGC]
+SCD875:AD:BD:Double usual time (3 of 3)[GGC]
+SCE397:B8:3B:Multi-jump (1 of 5)[GGC]
+SCE3A8:E3:E6:Multi-jump (2 of 5)[GGC]
+SCE3BD:10:F0:Multi-jump (3 of 5)[GGC]
+SCE403:87:3B:Multi-jump (4 of 5)[GGC]
+SCE691:24:F0:Multi-jump (5 of 5)[GGC]
+SCE49F:02:01:Walk 2x faster[GGC]
+SCE49F:04:01:Walk 4x faster[GGC]
+0075:01:Invincibility (star effect) (disable after a boss)
+007D:FA:Invincibility (blinking)
+00A0:1E:All levels cleared except the Amazon
+00A1:01:Have the Skeleton Key, Mine Key and Remote Control (1 of 2)
+00A3:FF:Have the Skeleton Key, Mine Key and Remote Control (2 of 2)
+0151:09:Infinite time (hundred's digit)
+0155:09:Infinite time (ten's digit)
+0159:09:Infinite time (one's digit)
+0324:09:Have $9,000,000
+0342:00:Infinite health (alt) (1 of 3)
+0346:00:Infinite health (alt) (2 of 3)
+034A:00:Infinite health (alt) (3 of 3)
