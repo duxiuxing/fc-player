@@ -1,0 +1,13 @@
+SCCD71:A5:85:Infinite health[GGC]
+SCC092:01:03:Start with 1 life[GGC]
+SCC092:06:03:Start with 6 lives[GGC]
+SCC092:09:03:Start with 9 lives[GGC]
+SCC21A:A5:C6:Infinite lives[GGC]
+SCEBD7:1C:38:Start with less health[GGC]
+SCC500:04:00:Start on stage 1[GGC]
+SCC500:09:00:Start on stage 2[GGC]
+SCC500:0E:00:Start on stage 3[GGC]
+SCCB27:00:09:Mega-jump[GGC]
+SCE81F:00:FF:Auto-fire and auto-jump[GGC]
+000A:09:Infinite lives (alt)
+0092:38:Infinite health (alt)

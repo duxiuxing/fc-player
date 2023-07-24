@@ -1,0 +1,21 @@
+SC8A4D:E9:E5:Infinite health[GGC]
+SCD050:A5:C6:Infinite lives[GGC]
+SC8A44:AD:B9:Take minimum damage[GGC]
+SCD628:28:38:Mega-jump[GGC]
+SCD036:24:C6:Don't lose boomerang strength when you die (1 of 2)[GGC]
+SCD066:24:85:Don't lose boomerang strength when you die (2 of 2)[GGC]
+SCD03C:24:C6:Don't lose multi-boomerangs when you die (1 of 2)[GGC]
+SCD06A:24:85:Don't lose multi-boomerangs when you die (2 of 2)[GGC]
+SC8C97:00:22:Hit anywhere (1 of 2)[GGC]
+SC8C8B:F0:90:Hit anywhere (2 of 2)[GGC]
+SCD181:08:01:Press Start to finish the level (don't use on Protect level) (1 of 3)[GGC]
+SCD183:18:4D:Press Start to finish the level (don't use on Protect level) (2 of 3)[GGC]
+SCD184:60:A9:Press Start to finish the level (don't use on Protect level) (3 of 3)[GGC]
+SCF67B:07:02:Start a new game to view ending[GGC]
+SCF722:00:02:Start with 1 life[GGC]
+SCF722:05:02:Start with 6 lives[GGC]
+SCF722:08:02:Start with 9 lives[GGC]
+0027:09:Infinite lives (alt)
+0095:09:Infinite time (1 of 2)
+0096:99:Infinite time (2 of 2)
+04AB:12:Infinite health (alt)

@@ -1,0 +1,23 @@
+SCD053:24:C6:Infinite lives[GGC]
+SCB3D2:E9:E5:Infinite health - except for spikes[GGC]
+SCCA4A:60:A5:Infinite time[GGC]
+SCCA47:1F:3F:Speed up timer[GGC]
+SCCA47:7F:3F:Slow down timer[GGC]
+SCEE8A:24:C6:Infinite life tanks[GGC]
+SCD301:24:C6:Infinite energy tanks[GGC]
+SCD24A:85:A5:Throw meter doesn't decrease when boomerang is thrown[GGC]
+SCB3D2:E9:E5:Take minimal damage (1 of 2)[GGC]
+SCB3D3:01:00:Take minimal damage (2 of 2)[GGC]
+SCB56B:A9:C9:Maximum throwing ability on pick-up (1 of 2)[GGC]
+SCB572:85:E6:Maximum throwing ability on pick-up (2 of 2)[GGC]
+SCEE27:07:03:Start a new game to view ending[GGC]
+SC86C9:00:02:Start with 1 life[GGC]
+SC86C9:05:02:Start with 6 lives[GGC]
+SC86C9:08:02:Start with 9 lives[GGC]
+0018:07:View ending
+0054:0F:Have max POW
+0099:01:Have Dual Power-Blades
+009F:99:Infinite lives (alt)
+00A0:12:Have max energy
+00A2:01:Have Red Power-Blades
+049A:12:Infinite health (alt)

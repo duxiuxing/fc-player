@@ -1,0 +1,21 @@
+SCBA6B:60:85:Invincibility[GGC]
+SCB90D:B9:BD:One hit kills[GGC]
+SCD1FB:00:01:Infinite lives[GGC]
+SCBB11:ED:F9:Take less damage when hit from behind[GGC]
+SCCE61:00:01:Infinite bullets[GGC]
+SCC341:10:20:Start with half health (1 of 2)[GGC]
+SCD20F:10:20:Start with half health (2 of 2)[GGC]
+SCBB3F:2C:8D:Keep weapons after dying (1 of 2)[GGC]
+SCBD51:2C:8D:Keep weapons after dying (2 of 2)[GGC]
+SC82BD:00:02:Start with 1 life[GGC]
+SC82BD:05:02:Start with 6 lives[GGC]
+SC82BD:08:02:Start with 9 lives[GGC]
+SC82BD:63:02:Start with 99 lives[GGC]
+0047:01:Start on stage 2 (disable after stage begins)
+0047:02:Start on stage 3 (disable after stage begins)
+0047:03:Start on stage 4 (disable after stage begins)
+0047:04:Start on stage 5 (disable after stage begins)
+0047:05:Start on stage 6 (disable after stage begins)
+0438:DB:Have infinite Gun, Brass Knuckles, Armor Vest
+0438:E5:Have infinite Knives, Brass Knuckles, Armor Vest
+0438:F9:Have infinite Grenades, Brass Knuckles, Armor Vest

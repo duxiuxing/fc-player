@@ -1,0 +1,17 @@
+SCE655:EF:0B:Infinite health and time (1 of 4)[GGC]
+SCE654:A9:D6:Infinite health and time (2 of 4)[GGC]
+SCE656:85:F0:Infinite health and time (3 of 4)[GGC]
+SCE657:67:0A:Infinite health and time (4 of 4)[GGC]
+SCE286:05:14:Only have 5 seconds to get back into ring[GGC]
+SCE286:0A:14:Only have 10 seconds to get back into ring[GGC]
+SCE286:1E:14:Have 30 seconds to get back into ring[GGC]
+SCDFA4:01:05:Rounds are only 1 minute[GGC]
+SCDFA4:03:05:Rounds are only 3 minutes[GGC]
+SCDFA4:08:05:Rounds are 8 minutes[GGC]
+SCDFA4:0A:05:Rounds are 10 minutes[GGC]
+SCE46E:02:03:2-second pin count[GGC]
+SCE46E:05:03:5-second pin count[GGC]
+SCE46E:07:03:7-second pin count[GGC]
+0077:00:Pin once to win match
+0086:3B:Infinite time (seconds)
+0087:09:Infinite time (minutes)
