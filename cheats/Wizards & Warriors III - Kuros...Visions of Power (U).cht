@@ -1,0 +1,105 @@
+SCA729:01:03:Start with 2 lives[GGC]
+SCA729:06:03:Start with 7 lives[GGC]
+SCA729:09:03:Start with 10 lives[GGC]
+SCE3F1:A5:C6:Infinite lives (except boss stages)[GGC]
+SC84D4:19:32:Coins worth 25[GGC]
+SC84D4:64:32:Coins worth 100[GGC]
+SC84D4:FF:32:Coins worth 255[GGC]
+SC84D2:05:0A:Bags worth 5[GGC]
+SC84D2:32:0A:Bags worth 50[GGC]
+SC84D2:FF:0A:Bags worth 255[GGC]
+SCA744:40:80:Start with Less health[GGC]
+SCA744:B0:80:Start with More health[GGC]
+SCB203:40:80:Less health after death (except boss stages)[GGC]
+SCB203:B0:80:More health after death (except boss stages)[GGC]
+SCA744:01:80:Start with very little life force[GGC]
+SCA744:40:80:Start with about half life force[GGC]
+SCE3E4:A5:C6:Infinite lives[GGC]
+SCF772:AD:8D:Shopkeeper sometimes forgets to charge[GGC]
+SCF6AD:A5:C6:Infinite keys[GGC]
+SF777:F0:Infinite gold[GGC]
+008B:2B:Invincibility
+00EB:80:Infinite health
+0087:02:Infinite Keys
+0669:09:Infinite money
+049D:01:One hit kills on most enemies/bosses (1 of 5)
+049E:01:One hit kills on most enemies/bosses (2 of 5)
+049F:01:One hit kills on most enemies/bosses (3 of 5)
+04A0:01:One hit kills on most enemies/bosses (4 of 5)
+04A1:01:One hit kills on most enemies/bosses (5 of 5)
+0657:01:Have the Orb in slot 1 (enable then disable)
+0658:01:Have the Orb in slot 2 (enable then disable)
+0659:01:Have the Orb in slot 3 (enable then disable)
+065A:01:Have the Orb in slot 4 (enable then disable)
+0657:02:Have the Scepter in slot 1 (enable then disable)
+0658:02:Have the Scepter in slot 2 (enable then disable)
+0659:02:Have the Scepter in slot 3 (enable then disable)
+065A:02:Have the Scepter in slot 4 (enable then disable)
+0657:03:Have the Coin in slot 1 (enable then disable)
+0658:03:Have the Coin in slot 2 (enable then disable)
+0659:03:Have the Coin in slot 3 (enable then disable)
+065A:03:Have the Coin in slot 4 (enable then disable)
+0657:04:Have the Chalice in slot 1 (enable then disable)
+0658:04:Have the Chalice in slot 2 (enable then disable)
+0659:04:Have the Chalice in slot 3 (enable then disable)
+065A:04:Have the Chalice in slot 4 (enable then disable)
+0657:05:Have the Amulet in slot 1 (enable then disable)
+0658:05:Have the Amulet in slot 2 (enable then disable)
+0659:05:Have the Amulet in slot 3 (enable then disable)
+065A:05:Have the Amulet in slot 4 (enable then disable)
+0657:06:Have the Crown in slot 1 (enable then disable)
+0658:06:Have the Crown in slot 2 (enable then disable)
+0659:06:Have the Crown in slot 3 (enable then disable)
+065A:06:Have the Crown in slot 4 (enable then disable)
+0657:07:Have the Crown Jewel 1 in slot 1 (enable then disable)
+0658:07:Have the Crown Jewel 1 in slot 2 (enable then disable)
+0659:07:Have the Crown Jewel 1 in slot 3 (enable then disable)
+065A:07:Have the Crown Jewel 1 in slot 4 (enable then disable)
+0657:08:Have the Crown Jewel 2 in slot 1 (enable then disable)
+0658:08:Have the Crown Jewel 2 in slot 2 (enable then disable)
+0659:08:Have the Crown Jewel 2 in slot 3 (enable then disable)
+065A:08:Have the Crown Jewel 2 in slot 4 (enable then disable)
+0657:09:Have the Crown Jewel 3 in slot 1 (enable then disable)
+0658:09:Have the Crown Jewel 3 in slot 2 (enable then disable)
+0659:09:Have the Crown Jewel 3 in slot 3 (enable then disable)
+065A:09:Have the Crown Jewel 3 in slot 4 (enable then disable)
+0657:0A:Have the Crown Jewel 4 in slot 1 (enable then disable)
+0658:0A:Have the Crown Jewel 4 in slot 2 (enable then disable)
+0659:0A:Have the Crown Jewel 4 in slot 3 (enable then disable)
+065A:0A:Have the Crown Jewel 4 in slot 4 (enable then disable)
+0657:0B:Have the Bronze Knight Statue in slot 1 (enable then disable)
+0658:0B:Have the Bronze Knight Statue in slot 2 (enable then disable)
+0659:0B:Have the Bronze Knight Statue in slot 3 (enable then disable)
+065A:0B:Have the Bronze Knight Statue in slot 4 (enable then disable)
+0657:0C:Have the Silver Knight Statue in slot 1 (enable then disable)
+0658:0C:Have the Silver Knight Statue in slot 2 (enable then disable)
+0659:0C:Have the Silver Knight Statue in slot 3 (enable then disable)
+065A:0C:Have the Silver Knight Statue in slot 4 (enable then disable)
+0657:0D:Have the Gold Knight Statue in slot 1 (enable then disable)
+0658:0D:Have the Gold Knight Statue in slot 2 (enable then disable)
+0659:0D:Have the Gold Knight Statue in slot 3 (enable then disable)
+065A:0D:Have the Gold Knight Statue in slot 4 (enable then disable)
+0657:0E:Have the Bronze Thief Statue in slot 1 (enable then disable)
+0658:0E:Have the Bronze Thief Statue in slot 2 (enable then disable)
+0659:0E:Have the Bronze Thief Statue in slot 3 (enable then disable)
+065A:0E:Have the Bronze Thief Statue in slot 4 (enable then disable)
+0657:0F:Have the Silver Thief Statue in slot 1 (enable then disable)
+0658:0F:Have the Silver Thief Statue in slot 2 (enable then disable)
+0659:0F:Have the Silver Thief Statue in slot 3 (enable then disable)
+065A:0F:Have the Silver Thief Statue in slot 4 (enable then disable)
+0657:10:Have the Gold Thief Statue in slot 1 (enable then disable)
+0658:10:Have the Gold Thief Statue in slot 2 (enable then disable)
+0659:10:Have the Gold Thief Statue in slot 3 (enable then disable)
+065A:10:Have the Gold Thief Statue in slot 4 (enable then disable)
+0657:11:Have the Bronze Wizard Statue in slot 1 (enable then disable)
+0658:11:Have the Bronze Wizard Statue in slot 2 (enable then disable)
+0659:11:Have the Bronze Wizard Statue in slot 3 (enable then disable)
+065A:11:Have the Bronze Wizard Statue in slot 4 (enable then disable)
+0657:12:Have the Silver Wizard Statue in slot 1 (enable then disable)
+0658:12:Have the Silver Wizard Statue in slot 2 (enable then disable)
+0659:12:Have the Silver Wizard Statue in slot 3 (enable then disable)
+065A:12:Have the Silver Wizard Statue in slot 4 (enable then disable)
+0657:13:Have the Gold Wizard Statue in slot 1 (enable then disable)
+0658:13:Have the Gold Wizard Statue in slot 2 (enable then disable)
+0659:13:Have the Gold Wizard Statue in slot 3 (enable then disable)
+065A:13:Have the Gold Wizard Statue in slot 4 (enable then disable)

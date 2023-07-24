@@ -1,0 +1,21 @@
+SCE57E:D0:F0:Invincibility[GGC]
+SE581:30:Invincibility (flashes)[GGC]
+SCB4EA:24:C6:Infinite lives[GGC]
+SCB4EA:A5:C6:Infinite lives (alt)[GGC]
+SCE37D:24:E5:Infinite health[GGC]
+SCE698:A9:D0:Infinite health (alt) (1 of 3)[GGC]
+SCE699:0C:3C:Infinite health (alt) (2 of 3)[GGC]
+SCE69A:85:A5:Infinite health (alt) (3 of 3)[GGC]
+SCDF07:EF:4F:Potions last longer[GGC]
+SCE488:01:02:Meat gives half health[GGC]
+SCE488:04:02:Meat gives double health[GGC]
+SF341:30:Enter doors without needing a key[GGC]
+SD15E:FC:Jump higher[GGC]
+SD166:CC:Jump to the top of the scren[GGC]
+SCB83C:05:02:Start with 6 lives (1 of 2)[GGC]
+SCC024:05:02:Start with 6 lives (2 of 2)[GGC]
+SCB83C:08:02:Start with 9 lives (1 of 2)[GGC]
+SCC024:08:02:Start with 9 lives (2 of 2)[GGC]
+0076:0C:Infinite health (alt 2)
+00FC:02:Invincibility (alt)
+0148:40:Super-jump (disable if you get stuck)

@@ -1,0 +1,11 @@
+SCEAF8:F0:D0:Invincibility[GGC]
+SCBCD0:AD:8D:Infinite health (except against spikes)[GGC]
+SCE8B9:AD:CE:Infinite health (only against spikes)[GGC]
+SC8AB6:AD:CE:Infinite time (1 of 2)[GGC]
+SC8AA7:AD:CE:Infinite time (2 of 2)[GGC]
+SC96A1:AD:8D:Infinite MP[GGC]
+SCCA35:AD:CE:Infinite lives[GGC]
+00B9:01:Invincibility (blinking)
+04F5:02:Infinite lives (alt)
+0581:06:Infinite health
+058B:06:Infinite special

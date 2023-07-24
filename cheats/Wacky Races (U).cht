@@ -1,0 +1,37 @@
+SCD97B:D0:F0:Invincibility (1 of 3)[GGC]
+SCD9B5:D0:F0:Invincibility (2 of 3)[GGC]
+SCCD8D:D0:F0:Invincibility (3 of 3)[GGC]
+SCCED5:CD:CE:Infinite health (1 of 2)[GGC]
+SCCDBB:CD:CE:Infinite health (2 of 2)[GGC]
+SCCED5:2C:CE:Infinite health (alt) (1 of 3)[GGC]
+SCCE7E:2C:CE:Infinite health (alt) (2 of 3)[GGC]
+SCCDBB:2C:CE:Infinite health (alt) (3 of 3)[GGC]
+SCD05A:8D:CE:Infinite lives (1 of 2)[GGC]
+SCD0C7:8D:CE:Infinite lives (2 of 2)[GGC]
+SCD054:10:AD:Infinite lives (alt) (1 of 2)[GGC]
+SCD055:08:5D:Infinite lives (alt) (2 of 2)[GGC]
+SCD793:AD:8D:Infinite Bones after obtaining one[GGC]
+SCED48:00:02:Start with 1 life[GGC]
+SCED48:04:02:Start with 5 lives[GGC]
+SCED48:06:02:Start with 7 lives[GGC]
+SCED48:08:02:Start with 9 lives[GGC]
+SCED51:06:03:Start with 6 hearts[GGC]
+SCED51:08:03:Start with 8 hearts[GGC]
+SCCED5:2C:CE:Don't take most damage[GGC]
+SCEDBC:C8:C4:Start at race 1, end of stage 1[GGC]
+SCEDBC:CF:C4:Start at race 1, end of stage 2[GGC]
+SCEDBC:D4:C4:Start at race 1, end of stage 3[GGC]
+SCEDBE:D8:D6:Start at race 2, end of stage 1[GGC]
+SCEDBE:DC:D6:Start at race 2, end of stage 2[GGC]
+SCEDBE:E0:D6:Start at race 2, end of stage 3[GGC]
+SCEDC0:E4:E2:Start at race 3, end of stage 1[GGC]
+SCEDC0:E8:E2:Start at race 3, end of stage 2[GGC]
+SCEDC0:EC:E2:Start at race 3, end of stage 3[GGC]
+SCEDC0:F0:E2:Start at race 3, end of stage 4[GGC]
+SCEDBC:F2:C4:Go straight to level boss[GGC]
+0453:01:Invincibility (alt)
+0452:11:Invincibility (blinking)
+0459:03:Infinite health (alt 2)
+00A4:59:Infinite time
+045D:63:Infinite lives (alt 2)
+042F:63:Infinite Gems

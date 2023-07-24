@@ -1,0 +1,4 @@
+SCB483:0A:04:Pin count extended to 9 seconds[GGC]
+SCC1D7:06:0B:10-count reduced to 5 seconds[GGC]
+SCC1FC:65:3C:All counts slower[GGC]
+SCC1FC:1F:3C:All counts faster[GGC]
