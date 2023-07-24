@@ -1,0 +1,8 @@
+SCCE7D:B9:99:Infinite hands[GGC]
+SCD040:B5:95:Freeze time (disable at end of level so counter can decrease)[GGC]
+SCD46D:75:D8:One saved to beat level (1 of 3)[GGC]
+SCD46A:A9:A5:One saved to beat level (2 of 3)[GGC]
+SCD46E:01:04:One saved to beat level (3 of 3)[GGC]
+SCCE13:08:62:No score decrease with loss of men (1 of 2)[GGC]
+SCCE12:30:A5:No score decrease with loss of men (2 of 2)[GGC]
+SCCE13:63:62:Each dead man, one to score instead of five[GGC]
