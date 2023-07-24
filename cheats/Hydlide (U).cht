@@ -1,0 +1,22 @@
+SC8640:28:0A:Boost strength, life, magic[GGC]
+SC8640:64:0A:Super boost strength, life, magic[GGC]
+SCC7D7:A5:85:Don't take damage from most enemies[GGC]
+SC8EBC:00:0D:Rapid healing[GGC]
+SC9A7E:00:02:Rapid magic healing[GGC]
+0038:64:Infinite life
+0039:64:Max STR
+003A:64:Max EXP
+003B:64:Max Magic
+0059:FF:Have the Sword
+005A:FF:Have the Shield
+005B:FF:Have the Lamp
+005C:FF:Have the Cross
+005D:FF:Have the Pot
+005E:FF:Have the Medicine
+005F:FF:Have the Key
+0060:FF:Have the Ruby
+0061:FF:Have the Ring
+0062:FF:Have the Jewel
+0063:FF:Have 3 Fairies (1 of 3)
+0064:FF:Have 3 Fairies (2 of 3)
+0065:FF:Have 3 Fairies (3 of 3)
