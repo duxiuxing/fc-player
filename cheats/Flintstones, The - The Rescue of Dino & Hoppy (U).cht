@@ -1,0 +1,26 @@
+SC9192:60:CE:Invincibility[GGC]
+SC8090:AD:CE:Infinite lives[GGC]
+SCE472:AD:CE:Infinite energy (hearts) (1 of 2)[GGC]
+SC9192:AD:CE:Infinite energy (hearts) (2 of 2)[GGC]
+SC8167:00:02:Start with 1 life[GGC]
+SC8167:05:02:Start with 6 lives[GGC]
+SC8167:08:02:Start with 9 lives[GGC]
+SC817B:63:0A:Start with 99 coins[GGC]
+SC8180:01:00:Start with Slingshot[GGC]
+SC8180:02:00:Start with Axe[GGC]
+SC8180:04:00:Start with Bomb[GGC]
+SCE2D2:0F:05:15 coins on pick-up[GGC]
+SCE2D2:02:05:2 coins on pick-up[GGC]
+SC8E32:00:03:Slingshot doesn't use up coins[GGC]
+SC8E33:00:03:Axe doesn't use up coins[GGC]
+SC8E34:00:0A:Bomb doesn't use up coins[GGC]
+S8DEC:00:Infinite Firepower[GGC]
+SC99C8:13:01:Max power charge (1 of 4)[GGC]
+SCA103:13:01:Max power charge (2 of 4)[GGC]
+SC9183:13:01:Max power charge (3 of 4)[GGC]
+SC923B:13:01:Max power charge (4 of 4)[GGC]
+0305:09:Infinite lives
+0308:03:Infinite energy (hearts) (alt)
+030B:FF:Infinite coins
+0312:0C:Max power charge (alt)
+03D7:00:One hit kills on most bosses

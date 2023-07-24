@@ -1,0 +1,44 @@
+SCAF0D:AD:20:Invincibility[GGC]
+SCDD0C:AD:8D:Infinite health[GGC]
+SCDD06:E9:E5:Infinite health for active counselor[GGC]
+SCB418:2A:06:Vitamins heal active counselor better[GGC]
+SCEB0A:28:04:Vitamins heal others better[GGC]
+SCB2F5:75:74:Autofire[GGC]
+SCB77C:AD:20:Infinite child save time[GGC]
+SCB50A:0C:00:Everyone can jump high[GGC]
+SCB853:AD:CE:Infinite children (1 of 2)[GGC]
+SCB845:75:78:Infinite children (2 of 2)[GGC]
+SCDC43:50:D0:Hit anywhere[GGC]
+SCDC99:00:12:One hit kills[GGC]
+SCCAD2:00:22:Enemies die automatically[GGC]
+SCCBC4:00:02:No enemies (1 of 2)[GGC]
+SCDAA5:AD:FE:No enemies (2 of 2)[GGC]
+SCB264:AD:B9:Turbo running (1 of 2)[GGC]
+SCB265:1F:68:Turbo running (2 of 2)[GGC]
+SCC285:07:A5:Throw rocks straight[GGC]
+SC8EE7:05:01:Start with 55 children (1 of 2)[GGC]
+SC8EFD:37:0F:Start with 55 children (2 of 2)[GGC]
+0488:03:Invincibility (alt)
+0505:FF:Infinite health (alt)
+0519:09:Infinite Medicine
+0504:05:Infinite Children
+058D:09:Infinite child save time (alt)
+0506:00:Have the Torch
+0506:01:Have the Knife
+0506:02:Have the Axe
+0506:03:Have the Stone
+0506:04:Have the Cleaver
+0506:05:Have the Pitchfork
+0517:01:Have the Lighter Torch
+0518:01:Have the Flashlight
+051A:01:Have the Key
+051C:00:Jason has no health
+0507:00:Play as George
+0507:01:Play as Mark
+0507:02:Play as Paul
+0507:03:Play as Laura
+0507:04:Play as Debbie
+0507:05:Play as Crissy
+0508:00:Set time - day
+0508:01:Set time - dusk
+0508:02:Set time - night

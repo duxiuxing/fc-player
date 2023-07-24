@@ -1,0 +1,120 @@
+SCB035:AD:DE:LIFE spell never uses up Magic Points[GGC]
+SCB06B:AD:DE:LIF2 spell never uses up Magic Points[GGC]
+SCC7D6:06:02:Magic users start with 6 Magic Points[GGC]
+SCC7D6:09:02:Magic users start with 9 Magic Points[GGC]
+SCAB0E:B0:F0:Non-magic users can use level 1 magic (1 of 3)[GGC]
+SCC7D0:00:0C:Non-magic users can use level 1 magic (2 of 3)[GGC]
+SCC7D4:00:08:Non-magic users can use level 1 magic (3 of 3)[GGC]
+SCB01C:20:90:Start with 800 Gold (1 of 2)[GGC]
+SCB01D:03:01:Start with 800 Gold (2 of 2)[GGC]
+SCB01E:FF:00:999999+ Gold[GGC]
+SCA4D1:2C:ED:Almost infinite Gold (1 of 2)[GGC]
+SCA4DA:2C:ED:Almost infinite Gold (2 of 2)[GGC]
+S99E6:91:No random battles[GGC]
+SCB041:46:23:Double Fighter Hit Points[GGC]
+SCB048:14:0A:Double Fighter's Hit[GGC]
+SCB049:6A:35:Double Fighter's Evade[GGC]
+SCB046:0A:05:Double Fighter's Luck[GGC]
+SCB051:3C:1E:Double Thief's Hit Points[GGC]
+SCB057:06:02:Triple Thief's Damage[GGC]
+SCB058:0A:05:Double Thief's Hit[GGC]
+SCB059:74:3A:Double Thief's Evade[GGC]
+SCB056:1E:0F:Double Thief's Luck[GGC]
+SCB061:42:21:Double Black Belt's Hit Points[GGC]
+SCB067:06:02:Triple Black Belt's Damage[GGC]
+SCB068:0A:05:Double Black Belt's Hit[GGC]
+SCB069:6A:35:Double Black Belt's Evade[GGC]
+SCB066:0A:05:Double Black Belt's Luck[GGC]
+SCB071:3C:1E:Double Red Mage's Hit Points[GGC]
+SCB077:0A:05:Double Red Mage's Damage[GGC]
+SCB078:0E:07:Double Red Mage's Hit[GGC]
+SCB079:74:3A:Double Red Mage's Evade[GGC]
+SCB076:0A:05:Double Red Mage's Luck[GGC]
+SCB081:38:1C:Double White Mage's Hit Points[GGC]
+SCB087:06:02:Triple White Mage's Damage[GGC]
+SCB088:0A:05:Double White Mage's Hit[GGC]
+SCB089:6A:35:Double White Mage's Evade[GGC]
+SCB086:0A:05:Double White Mage's Luck[GGC]
+SCB091:32:19:Double Black Mage's Hit Points[GGC]
+SCB097:03:01:Triple Black Mage's Damage[GGC]
+SCB098:0A:05:Double Black Mage's Hit[GGC]
+SCB099:74:3A:Double Black Mage's Evade[GGC]
+SCB096:14:0A:Double Black Mage's Luck[GGC]
+00F5:FF:No random battles (alt)
+6021:01:Have Lute
+6022:01:Have Crown
+6023:01:Have Crystal
+6024:01:Have Herb
+6025:01:Have Key
+6026:01:Have TNT
+6027:01:Have Adamant
+6028:01:Have Slab
+6029:01:Have Ruby
+602A:01:Have Rod
+602B:01:Have Floater
+602C:01:Have Chime
+602D:01:Have Tail
+602E:01:Have Cube
+602F:01:Have Bottle
+6030:01:Have Oxyale
+6031:01:Have Canoe
+6032:01:Have first Crystal lit
+6033:01:Have second Crystal lit
+6034:01:Have third Crystal lit
+6035:01:Have last Crystal lit
+610A:FF:Character 1 - 255 HP
+6110:63:Character 1 - 99 STR
+6111:63:Character 1 - 99 AGL
+6112:63:Character 1 - 99 INT
+6113:63:Character 1 - 99 VIT
+6114:63:Character 1 - 99 Luck
+6120:FF:Character 1 - 255 Damage
+6121:FF:Character 1 - 255 Hit %
+6122:FF:Character 1 - 255 Absorb
+6123:FF:Character 1 - 255 Evade %
+614A:FF:Character 2 - 255 HP
+6150:63:Character 2 - 99 STR
+6151:63:Character 2 - 99 AGL
+6152:63:Character 2 - 99 INT
+6153:63:Character 2 - 99 VIT
+6154:63:Character 2 - 99 Luck
+6160:FF:Character 2 - 255 Damage
+6161:FF:Character 2 - 255 Hit %
+6162:FF:Character 2 - 255 Absorb
+6163:FF:Character 2 - 255 Evade %
+618A:FF:Character 3 - 255 HP
+6190:63:Character 3 - 99 STR
+6191:63:Character 3 - 99 AGL
+6192:63:Character 3 - 99 INT
+6193:63:Character 3 - 99 VIT
+6194:63:Character 3 - 99 Luck
+61A0:FF:Character 3 - 255 Damage
+61A1:FF:Character 3 - 255 Hit %
+61A2:FF:Character 3 - 255 Absorb
+61A3:FF:Character 3 - 255 Evade %
+61CA:FF:Character 4 - 255 HP
+61D0:63:Character 4 - 99 STR
+61D1:63:Character 4 - 99 AGL
+61D2:63:Character 4 - 99 INT
+61D3:63:Character 4 - 99 VIT
+61D4:63:Character 4 - 99 Luck
+61E0:FF:Character 4 - 255 Damage
+61E1:FF:Character 4 - 255 Hit %
+61E2:FF:Character 4 - 255 Absorb
+61E3:FF:Character 4 - 255 Evade %
+6320:08:Character 1 - Infinite level 1 magic use (1 of 2)
+6328:08:Character 1 - Infinite level 1 magic use (2 of 2)
+6321:08:Character 1 - Infinite level 2 magic use (1 of 2)
+6329:08:Character 1 - Infinite level 2 magic use (2 of 2)
+6322:08:Character 1 - Infinite level 3 magic use (1 of 2)
+632A:08:Character 1 - Infinite level 3 magic use (2 of 2)
+6323:08:Character 1 - Infinite level 4 magic use (1 of 2)
+632B:08:Character 1 - Infinite level 4 magic use (2 of 2)
+6324:08:Character 1 - Infinite level 5 magic use (1 of 2)
+632C:08:Character 1 - Infinite level 5 magic use (2 of 2)
+6325:08:Character 1 - Infinite level 6 magic use (1 of 2)
+632D:08:Character 1 - Infinite level 6 magic use (2 of 2)
+6326:08:Character 1 - Infinite level 7 magic use (1 of 2)
+632E:08:Character 1 - Infinite level 7 magic use (2 of 2)
+6327:08:Character 1 - Infinite level 8 magic use (1 of 2)
+632F:08:Character 1 - Infinite level 8 magic use (2 of 2)

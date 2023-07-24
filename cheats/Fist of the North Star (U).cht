@@ -1,0 +1,21 @@
+SCC5A0:AD:20:Invincibility[GGC]
+SCCC53:A5:85:Infinite health[GGC]
+SCC1CF:A5:C6:Infinite lives[GGC]
+SCC0CC:01:03:Start with 1 life[GGC]
+SCC0CC:06:03:Start with 6 lives[GGC]
+SCC0CC:09:03:Start with 9 lives[GGC]
+SCE65C:A5:C6:Infinite time[GGC]
+SCCC51:E9:E5:One hit kills you[GGC]
+SCB186:06:01:Sweep kick damages enemies more[GGC]
+SCB194:08:03:Straight kick damages enemies more[GGC]
+SCCC3E:00:04:Can't be knocked back by big thugs[GGC]
+SCC953:D0:F0:Pogo stick[GGC]
+SCCC51:E9:E5:Take minimum damage from all enemies (1 of 2)[GGC]
+SCCC52:01:D9:Take minimum damage from all enemies (2 of 2)[GGC]
+SCB19A:E9:E5:Any attack mega-damages enemies (1 of 2)[GGC]
+SCB19B:0A:D9:Any attack mega-damages enemies (2 of 2)[GGC]
+0066:01:Invincibility (blinking)
+0073:38:Infinite health (alt)
+0065:09:Infinite time (alt)
+0063:07:Infinite Bomb
+006C:07:Infinite power

@@ -1,0 +1,18 @@
+SCF7FC:BD:9D:Infinite time[GGC]
+SCF9B4:00:01:Infinite lives[GGC]
+SCC430:18:12:Start with 9 lives[GGC]
+SCC430:15:12:Start with 6 lives[GGC]
+SCC430:10:12:Start with 1 life[GGC]
+SC880F:00:02:Hearts can't be replenished from bottles[GGC]
+SC880F:04:02:Bottles replenish more hearts[GGC]
+SC880F:08:02:Bottles replenish even more hearts[GGC]
+SCDA19:02:01:1 Felix icon gives 2 (1 of 2)[GGC]
+SCDA79:18:19:1 Felix icon gives 2 (2 of 2)[GGC]
+03CD:03:Invincibility (blinking)
+03A6:19:Infinite lives (alt)
+03C0:0A:Infinite special
+03A7:19:Have 99 Felix icons (1 of 2)
+03A8:19:Have 99 Felix icons (2 of 2)
+03C6:01:Play as Magic/Balloon Felix
+03C6:02:Play as Buggy/Plane Felix
+03C6:03:Play as Tank Felix

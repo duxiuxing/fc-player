@@ -1,0 +1,18 @@
+SCE697:12:24:Start with half ammo[GGC]
+SCE7B3:00:22:Infinite ammo[GGC]
+SCE798:03:06:Fewer errors allowed[GGC]
+SCE797:A9:C9:Infinite errors allowed[GGC]
+SCE633:02:01:Start at level 2[GGC]
+SCE633:03:01:Start at level 3[GGC]
+SCE633:04:01:Start at level 4[GGC]
+SCE633:05:01:Start at level 5[GGC]
+SCE64F:0C:18:Start with half health[GGC]
+SC8367:24:85:Infinite health[GGC]
+0089:09:Infinite time in bonus stages (disable to continue)
+00C2:3C:Automatically finish stage
+0515:24:Infinite ammo - P1
+0516:18:Infinite health - P1
+0517:00:Infinite errors allowed - P1
+0525:24:Infinite ammo - P2
+0526:18:Infinite health - P2
+0527:00:Infinite errors allowed - P2

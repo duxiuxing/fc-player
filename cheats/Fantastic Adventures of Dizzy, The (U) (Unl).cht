@@ -1,0 +1,8 @@
+SCD0E0:A5:C6:Infinite lives[GGC]
+SC8012:09:02:Start with 10 lives[GGC]
+SCF261:00:08:Spiders, bats, ants and rats do no damage[GGC]
+SCFAC6:0A:64:Start with 10 stars instead of 100[GGC]
+SCA531:7F:0E:Play bubble sub-game only[GGC]
+SCA531:7E:0E:Play river sub-game only[GGC]
+SCA531:7D:0E:Play mine sub-game only[GGC]
+SCA531:7A:0E:Play puzzle sub-game ony[GGC]
