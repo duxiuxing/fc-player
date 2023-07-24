@@ -1,0 +1,21 @@
+SCE5B4:A5:C6:Infinite lives[GGC]
+SCE612:01:03:Start with 2 lives[GGC]
+SCE612:06:03:Start with 6 lives[GGC]
+SCE612:09:03:Start with 9 lives[GGC]
+SCA502:A5:C6:Infinite cans[GGC]
+SCE616:12:06:Start with 18 cans[GGC]
+SCE616:0C:06:Start with 12 cans[GGC]
+SCE616:01:06:Start with 1 can[GGC]
+SCA810:01:00:Start on level 2[GGC]
+SCA810:03:00:Start on level 4[GGC]
+SCA810:05:00:Start on level 6[GGC]
+SCA810:07:00:Start on level 8[GGC]
+SCA04E:30:20:Turbo left and right movement (1 of 2)[GGC]
+SCA06B:30:20:Turbo left and right movement (2 of 2)[GGC]
+003F:02:Faster shots
+004A:00:Don't go into dying animation (use with invincibility) (1 of 2)
+004B:00:Don't go into dying animation (use with invincibility) (2 of 2)
+004C:FF:Infinite cans (alt)
+006D:7F:Have all letters
+006E:09:Infinite patches
+02D3:00:Invincibility (glitchy)

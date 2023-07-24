@@ -1,0 +1,35 @@
+SC80DF:80:CE:Infinite health[GGC]
+SC8F4E:00:01:Infinite time[GGC]
+SCF5F2:AD:CE:Infinite lives[GGC]
+SCFFC2:00:02:Start with 1 life[GGC]
+SCFFC2:01:02:Start with 2 lives[GGC]
+SCFFC2:04:02:Start with 5 lives[GGC]
+SCFFC2:08:02:Start with 9 lives[GGC]
+SCF509:01:02:Start with one heart - first life only[GGC]
+SCF5F6:00:02:Start with one heart - after first life[GGC]
+SC9396:01:00:When your weapon runs out of ammo its replaced with the double weapon[GGC]
+SC9396:02:00:When your weapon runs out of ammo its replaced with the wave weapon[GGC]
+SC9396:03:00:When your weapon runs out of ammo its replaced with the 3-way weapon[GGC]
+SC9396:04:00:When your weapon runs out of ammo its replaced with the flame weapon[GGC]
+SC9396:05:00:When your weapon runs out of ammo its replaced with the fireball weapon[GGC]
+SCD804:01:03:Start with less time (1 of 2)[GGC]
+SC8044:01:03:Start with less time (2 of 2)[GGC]
+SCD804:05:03:Start with more time (1 of 2)[GGC]
+SC8044:05:03:Start with more time (2 of 2)[GGC]
+SCD804:09:03:Start with even more time (1 of 2)[GGC]
+SC8044:09:03:Start with even more time (2 of 2)[GGC]
+SC937C:AD:EE:Weapons don't run out (1 of 3)[GGC]
+SC938B:AD:EE:Weapons don't run out (2 of 3)[GGC]
+SC939A:AD:8D:Weapons don't run out (3 of 3)[GGC]
+011C:02:Infinite health - P1
+0114:09:Infinite lives - P1
+0118:09:Infinite Coins (ten's digit)
+0119:09:Infinite Coins (one's digit)
+0576:09:Infinite time (hundred's digit)
+0577:09:Infinite time (ten's digit)
+0578:09:Infinite time (one's digit)
+0116:01:Start on stage 2 - Lake Neptune
+0116:02:Start on stage 3 - Cavern Of Fire
+0116:03:Start on stage 4 - Ice Palace
+0116:04:Start on stage 5 - Dark Jungle
+0116:05:Start on stage 6 - Golden Palace

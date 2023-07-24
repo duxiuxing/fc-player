@@ -1,0 +1,11 @@
+SCF293:EA:CA:Infinite time[GGC]
+SCF27D:78:3C:Slow down time[GGC]
+SCF27D:20:3C:Speed up time[GGC]
+SCF70C:01:00:Gain 2 coins for every 1 collected[GGC]
+SCF712:09:0E:Only 10 coins needed to get an extra life[GGC]
+SCA29D:2C:CE:Buy items for free (1 of 2)[GGC]
+SCB0A5:2C:CE:Buy items for free (2 of 2)[GGC]
+SCFB36:15:0C:Super-jump[GGC]
+04B2:01:Infinite health
+04BD:FF:Invincibility (blinking)
+066C:09:Infinite time (alt)

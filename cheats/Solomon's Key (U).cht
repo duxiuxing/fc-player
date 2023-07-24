@@ -1,0 +1,17 @@
+SC8065:AD:20:Invincibility[GGC]
+SCA1A7:B1:91:Infinite life[GGC]
+SCC84C:EA:CA:Infinite lives[GGC]
+SCA01B:2C:20:Indestructible fireball[GGC]
+SCA025:00:23:Continuous fairies[GGC]
+SC9829:8C:8E:Start with 40,000 life points[GGC]
+SC9136:2C:8D:Start on last level reached[GGC]
+SC9136:EE:8D:Start on next level[GGC]
+SC9139:AD:8D:Start on level XX (1 of 3)[GGC]
+SC913B:93:04:Start on level XX (2 of 3)[GGC]
+SC9135:09:00:Start on level 10 (1 of 3)[GGC]
+SC9135:13:00:Start on level 20 (3 of 3)[GGC]
+SC9135:1D:00:Start on level 30 (3 of 3)[GGC]
+SC9135:27:00:Start on level 40 (3 of 3)[GGC]
+0028:80:Invincibility (alt)
+042F:80:Infinite fireballs
+0438:09:Infinite life (alt)

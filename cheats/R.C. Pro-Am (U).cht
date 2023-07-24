@@ -1,0 +1,21 @@
+SCC1B0:04:01:Max turbo on first pick-up[GGC]
+SCC1CC:04:01:Max tires on first pick-up[GGC]
+SCC165:04:01:Max speed on first pick-up[GGC]
+SCC1B0:02:01:Double turbo on first pick-up[GGC]
+SCC1CC:02:01:Double tires on first pick-up[GGC]
+SCC165:02:01:Double speed on first pick-up[GGC]
+SCB2E4:AD:40:Computer cars go crazy[GGC]
+SCD101:00:01:Infinite continues[GGC]
+05DC:80:Auto race at 128 MPH (disable if you get stuck)
+0453:04:Max Super Sticky Tires
+0454:04:Max Turbo Acceleration
+0455:04:Max higher top speed
+0459:63:Infinite ammo for weapons
+045A:01:Have Bombs
+045A:02:Have Missiles
+03F9:00:Have pick-up truck as vehicle
+03F9:01:Have off-road vehicle as vehicle
+03F9:02:Have race car as vehicle
+005C:00:Always win as 1st place
+03F7:08:"NINTENDO" already spelled out (enable then disable)
+B2E4:AD:Computer cars go crazy (alt)

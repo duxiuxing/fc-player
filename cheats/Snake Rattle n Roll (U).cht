@@ -1,0 +1,24 @@
+SCFA81:A5:C6:Infinite time[GGC]
+SCFA7E:40:6E:Faster timer[GGC]
+SCFA7E:90:6E:Slower timer[GGC]
+SC82A7:00:02:1 life - both players[GGC]
+SC82A7:05:02:6 lives - both players[GGC]
+SC82A7:08:02:9 lives - both players[GGC]
+SC8EB0:00:02:1 life - both players, after continue[GGC]
+SC8EB0:05:02:6 lives - both players, after continue[GGC]
+SC8EB0:08:02:9 lives - both players, after continue[GGC]
+SC82BC:01:FF:Start on level 2[GGC]
+SC82BC:02:FF:Start on level 3[GGC]
+SC82BC:03:FF:Start on level 4[GGC]
+SC82BC:04:FF:Start on level 5[GGC]
+SC82BC:05:FF:Start on level 6[GGC]
+SC82BC:06:FF:Start on level 7[GGC]
+SCBE1D:BD:DE:Infinite lives - both players[GGC]
+SC9C2D:02:01:Super-jump[GGC]
+SC9C2D:03:01:Mega-jump[GGC]
+0062:09:Easy win
+00CF:09:Infinite time (alt)
+03DF:03:Infinite lives
+040D:11:Invincibility (blinking)
+0499:07:Max tongue height
+059F:1C:Infinite health

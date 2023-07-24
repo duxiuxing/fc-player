@@ -1,0 +1,42 @@
+SCCDDC:F0:D0:Invincibility (except grabs from behind)[GGC]
+SCB22E:BD:DE:Infinite health (1 of 2)[GGC]
+SCA449:BD:9D:Infinite health (2 of 2)[GGC]
+SCC2FB:00:01:Infinite lives[GGC]
+SCDCFC:AD:CE:Infinite continues[GGC]
+SCD20F:00:08:No health loss from using turbo attack[GGC]
+SCCF36:30:40:High-jump[GGC]
+SCCF36:28:40:Super-jump[GGC]
+SCCF36:20:40:Mega-jump[GGC]
+SCA806:00:1E:Hit anywhere - both players (1 of 6)[GGC]
+SCAA7F:00:D7:Hit anywhere - both players (2 of 6)[GGC]
+SCA810:00:14:Hit anywhere - both players (3 of 6)[GGC]
+SCA822:18:AB:Hit anywhere - both players (4 of 6)[GGC]
+SCA820:EA:D9:Hit anywhere - both players (5 of 6)[GGC]
+SCA821:EA:78:Hit anywhere - both players (6 of 6)[GGC]
+SCAC31:01:03:1 continue[GGC]
+SCAC31:09:03:9 continues[GGC]
+SC8390:00:03:Start with 1 life instead of 4[GGC]
+SC8390:05:03:Start with 6 lives[GGC]
+SC8390:08:03:Start with 9 lives[GGC]
+04F1:7F:Infinite health - P1
+04F2:7F:Infinite health - P2
+006A:05:Infinite lives - P1
+006B:05:Infinite lives - P2
+0626:00:Enemies automatically die (1 of 3)
+0627:00:Enemies automatically die (2 of 3)
+0628:00:Enemies automatically die (3 of 3)
+07B0:05:Infinite continues
+0058:01:Start on scene 02 - Ocean
+0058:02:Start on scene 03 - Battleship
+0058:03:Start on scene 04 - Bridge
+0058:04:Start on scene 05 - N.Y.
+0058:05:Start on scene 06 - Platform
+0058:06:Start on scene 07 - Sewer
+0058:07:Start on scene 08 - Sewer 2
+0058:08:Start on scene 09 - Technodrome
+0058:09:Start on scene 10 - Technodrome 2
+0058:0A:Start on scene 11 - Building
+0058:0B:Start on scene 12 - Roof
+0058:0C:Start on scene 13 - Spaceship
+0058:0D:Start on scene 14 - Spaceship 2
+0058:0E:Start on scene 15 - Spaceship 3

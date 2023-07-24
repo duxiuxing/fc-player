@@ -1,0 +1,31 @@
+SC8724:84:05:Invincibility (star effect) (1 of 2)[GGC]
+SC872F:84:05:Invincibility (star effect) (2 of 2)[GGC]
+SC8131:50:D0:Invincibility (except vs bullets)[GGC]
+SC8DF5:00:01:Infinite POW[GGC]
+SCDF6F:8D:AD:Always have 255 POW[GGC]
+SC8718:24:C6:Infinite lives - P1[GGC]
+SC871D:24:C6:Infinite lives - P2[GGC]
+SCD16E:01:05:Start with 1 life - P1[GGC]
+SCD176:01:05:Start with 1 life - P2[GGC]
+SCD16E:0A:05:Start with 10 lives - P1[GGC]
+SCD176:0A:05:Start with 10 lives - P2[GGC]
+SCAF33:08:FF:Multi-jump (01 of 15)[GGC]
+SCAF3C:60:FF:Multi-jump (02 of 15)[GGC]
+SC87D3:30:F1:Multi-jump (03 of 15)[GGC]
+SCAF39:20:FF:Multi-jump (04 of 15)[GGC]
+SCAF36:20:FF:Multi-jump (05 of 15)[GGC]
+SCAF34:F0:FF:Multi-jump (06 of 15)[GGC]
+SCAF37:F8:FF:Multi-jump (07 of 15)[GGC]
+SCAF31:04:FF:Multi-jump (08 of 15)[GGC]
+SCAF35:03:FF:Multi-jump (09 of 15)[GGC]
+SC87D4:AF:8B:Multi-jump (10 of 15)[GGC]
+SCAF38:89:FF:Multi-jump (11 of 15)[GGC]
+SCAF3A:F1:FF:Multi-jump (12 of 15)[GGC]
+SCAF32:29:FF:Multi-jump (13 of 15)[GGC]
+SCAF30:A5:FF:Multi-jump (14 of 15)[GGC]
+SCAF3B:8B:FF:Multi-jump (15 of 15)[GGC]
+0020:01:Start on stage 2 (disable after stage begins)
+0020:02:Start on stage 3 (disable after stage begins)
+0020:03:Start on stage 4 (disable after stage begins)
+0020:04:Start on stage 5 (disable after stage begins)
+0020:05:Start on stage 6 (disable after stage begins)

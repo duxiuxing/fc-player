@@ -1,0 +1,13 @@
+SCDC41:A5:C6:Infinite lives[GGC]
+SCDC79:00:02:Start with 1 life[GGC]
+SCDC79:05:02:Start with 6 lives[GGC]
+SCDC79:08:02:Start with 9 lives[GGC]
+SCE5EC:04:01:Extra health from capsules[GGC]
+SCF5F4:01:00:Start at stage 2[GGC]
+SCF5F4:02:00:Start at stage 3[GGC]
+SCF5F4:03:00:Start at stage 4[GGC]
+SCF5F4:04:00:Start at stage 5[GGC]
+SCFCB0:E9:E5:Take minimum damage (1 of 2)[GGC]
+SCFCB1:01:06:Take minimum damage (2 of 2)[GGC]
+005F:01:Play as Bomberking
+00B0:10:Infinite health

@@ -1,0 +1,16 @@
+SCC76A:70:73:Start with 1 life[GGC]
+SCC76A:76:73:Start with 7 lives[GGC]
+SCC76A:79:73:Start with 10 lives[GGC]
+SCCBF6:70:73:1 life after continue[GGC]
+SCCBF6:76:73:7 lives after continue[GGC]
+SCCBF6:79:73:10 lives after continue[GGC]
+SCCC47:2C:CE:Infinite lives from getting trapped by obstacles[GGC]
+SC812C:00:06:Infinite health[GGC]
+SCC605:71:73:1 continue[GGC]
+SCC605:76:73:6 continues[GGC]
+SCC605:79:73:9 continues[GGC]
+SCCBFA:A5:C6:Infinite continues[GGC]
+SCC863:71:70:Add $1,000,000 to end-of-level bonus[GGC]
+007C:5B:Invincibility (blinking)
+05B6:60:Infinite health (alt)
+05DB:79:Infinite lives (alt)

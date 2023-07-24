@@ -1,0 +1,62 @@
+SCF324:A9:D0:Invincibility (1 of 2)[GGC]
+SCF326:85:A5:Invincibility (2 of 2)[GGC]
+SCBA06:2C:8D:Infinite health (except if you hit a spike)[GGC]
+SCBA06:AD:8D:Infinite health (alt)[GGC]
+SC8A7D:AD:CE:Infinite lives[GGC]
+S972E:1F:More sub-space time[GGC]
+SC8CF8:70:F0:All characters can float[GGC]
+SCA372:B5:D6:Infinite magic carpet time[GGC]
+SC8AB5:AD:B9:Quick pick-up[GGC]
+SC8CBC:00:3C:Jump as high as a squat jump[GGC]
+SC8D21:11:00:Princess has mega-float[GGC]
+SC8D21:01:00:Princess has mega-float and lunar descent[GGC]
+SC83DC:01:04:Super moon-jumps - Mario[GGC]
+SC840A:00:01:Mega moon-jumps - Luigi[GGC]
+SC83F3:01:04:Super moon-jumps - Toad[GGC]
+SC8421:01:04:Super moon-jumps - Princess[GGC]
+SC84A3:00:02:Speed up enemies[GGC]
+SC85F2:20:08:Super speed enemies (1 of 2)[GGC]
+SC85F3:E0:F8:Super speed enemies (2 of 2)[GGC]
+SC8C87:1C:18:Walk backwards (2 of 2)[GGC]
+SC8C88:D3:8C:Walk backwards (2 of 2)[GGC]
+SC8DE7:EA:4A:Super turbo running (1 of 2)[GGC]
+SC8DFA:EA:6A:Super turbo running (2 of 2)[GGC]
+SC8DE6:00:05:Permanent turbo running (1 of 2)[GGC]
+SC8DF8:00:06:Permanent turbo running (2 of 2)[GGC]
+SC83F5:28:18:Fast run - Toad (1 of 2)[GGC]
+SC83F8:D8:E8:Fast run - Toad (2 of 2)[GGC]
+SC83DE:28:18:Super fast run - Mario (1 of 2)[GGC]
+SC83E1:D8:E8:Super fast run - Mario (2 of 2)[GGC]
+SC840C:28:18:Super fast run - Luigi (1 of 2)[GGC]
+SC840F:D8:E8:Super fast run - Luigi (2 of 2)[GGC]
+SC8423:28:18:Super fast run - Princess (1 of 2)[GGC]
+SC8426:D8:E8:Super fast run - Princess (2 of 2)[GGC]
+SC8F6F:00:02:Weak Birdo[GGC]
+SC8F6F:0D:02:Strong Birdo[GGC]
+SCB1D8:0F:06:Strong Wart[GGC]
+SC9003:1E:20:Birdo spits eggs instead of fireballs (in late levels of the game)[GGC]
+SC9A85:35:00:Start on World X (1 of 3)[GGC]
+SC9A86:06:01:Start on World X (2 of 3)[GGC]
+SC9A83:01:40:Start on World 2 (3 of 3)[GGC]
+SC9A83:02:40:Start on World 3 (3 of 3)[GGC]
+SC9A83:03:40:Start on World 4 (3 of 3)[GGC]
+SC9A83:04:40:Start on World 5 (3 of 3)[GGC]
+SC9A83:05:40:Start on World 6 (3 of 3)[GGC]
+SC9A83:06:40:Start on World 7 (3 of 3)[GGC]
+0085:FA:Invincibility (alt)
+062B:09:Infinite coins
+0099:00:Multi-jump
+00B9:FA:Infinite magic carpet time (alt)
+0468:00:One hit kills on bosses
+04AD:09:Receive small heart for every enemy defeated
+04B7:FA:Infinite sub-space time
+04C9:FA:All characters can float (alt)
+04FF:FA:Stopwatch always active
+062A:04:Only 1 Cherry needed for Starman
+062C:04:Only 1 big Radish needed for Stopwatch
+0635:01:Start on World 2 (alt)
+0635:02:Start on World 3 (alt)
+0635:03:Start on World 4 (alt)
+0635:04:Start on World 5 (alt)
+0635:05:Start on World 6 (alt)
+0635:06:Start on World 7 (alt)

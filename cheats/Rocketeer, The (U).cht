@@ -1,0 +1,14 @@
+SCBCD7:04:08:Start with 1/2 health[GGC]
+SCBCD7:10:08:Start with 2x health[GGC]
+SCBCD7:18:08:Start with 3x health[GGC]
+SCD75D:2C:ED:Infinite health[GGC]
+SCA212:05:0A:1/2 normal bullets on pick-up[GGC]
+SCA212:14:0A:2x normal bullets on pick-up[GGC]
+SCA212:1E:0A:3x normal bullets on pick-up[GGC]
+SCA204:0A:14:1/2 silver bullets on pick-up[GGC]
+SCA204:28:14:2x silver bullets on pick-up[GGC]
+SCA204:3C:14:3x silver bullets on pick-up[GGC]
+SCBD64:00:05:Have all weapons with infinite ammo[GGC]
+05B0:27:Infinite Rocket power
+05BF:63:Have all weapons with infinite ammo (alt)
+05C5:0A:Infinite health (alt)

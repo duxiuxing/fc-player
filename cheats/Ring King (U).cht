@@ -1,0 +1,19 @@
+SCD601:2C:CE:Unlimited power points - 1P game[GGC]
+SCAFC2:24:91:Don't lose stamina from fighting[GGC]
+SCD79B:03:06:Rounds are 30 seconds[GGC]
+SCD79B:09:06:Rounds are 90 seconds[GGC]
+SCAD91:24:91:Players can't hurt each other[GGC]
+0319:00:No health - P2 / CPU
+038D:09:Infinite power (ten's digit) - P1
+038E:09:Infinite power (one's digit) - P1
+038F:09:Max punch (ten's digit) - P1
+0390:09:Max punch (one's digit) - P1
+0391:09:Max speed (ten's digit) - P1
+0392:09:Max speed (one's digit) - P1
+0393:09:Max stamina (ten's digit) - P1
+0394:09:Max stamina (one's digit) - P1
+06E4:09:Infinite time (ten's digit)
+06E5:09:Infinite time (one's digit)
+06EC:00:No hits (hundred's digit) - P1
+06ED:00:No hits (ten's digit) - P1
+06EE:00:No hits (one's digit) - P1

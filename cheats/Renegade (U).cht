@@ -1,0 +1,19 @@
+SCEAD0:60:69:Infinite health (1 of 5)[GGC]
+SCEACF:7D:18:Infinite health (2 of 5)[GGC]
+SCEACD:33:71:Infinite health (3 of 5)[GGC]
+SCEACC:A9:AD:Infinite health (4 of 5)[GGC]
+SCEACE:85:04:Infinite health (5 of 5)[GGC]
+SCDEB1:A5:C6:Infinite lives[GGC]
+SCD79B:00:02:Start with 1 life - both players[GGC]
+SCD79B:05:02:Start with 6 lives - both players[GGC]
+SCD79B:08:02:Start with 9 lives - both players[GGC]
+SC933A:50:28:Start with a super energy boost[GGC]
+SCD7AF:01:00:Start on mission 2[GGC]
+SCD7AF:02:00:Start on mission 3[GGC]
+SCD7AF:03:00:Start on mission 4[GGC]
+SCEAD9:1E:3E:Timer runs faster[GGC]
+SCEAD9:A0:3E:Timer runs slower[GGC]
+0472:59:Infinite time
+007E:00:Enemies have no health (1 of 3)
+007F:00:Enemies have no health (2 of 3)
+0080:00:Enemies have no health (3 of 3)

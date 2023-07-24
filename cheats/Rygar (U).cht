@@ -1,0 +1,37 @@
+SCAE01:60:84:Invincibility[GGC]
+SCAD4D:10:F0:Multi-jump (01 of 10)[GGC]
+SCA016:60:A9:Multi-jump (02 of 10)[GGC]
+SCAD4A:28:04:Multi-jump (03 of 10)[GGC]
+SCAD51:04:05:Multi-jump (04 of 10)[GGC]
+SCAD4B:25:29:Multi-jump (05 of 10)[GGC]
+SCAD4F:8D:AD:Multi-jump (06 of 10)[GGC]
+SCAD49:A5:92:Multi-jump (07 of 10)[GGC]
+SCAD50:C2:32:Multi-jump (08 of 10)[GGC]
+SCAD48:EA:AD:Multi-jump (09 of 10)[GGC]
+SCAD4C:2A:20:Multi-jump (10 of 10)[GGC]
+SCAEB2:A5:85:Infinite health[GGC]
+SCAFAE:11:85:One hit kills[GGC]
+SCAE9E:60:05:Don't be pushed after being hit[GGC]
+S822A:00:Infinite Mind points[GGC]
+SCA3C1:05:25:Have first three items after pressing B once[GGC]
+SC966B:03:04:Jump higher[GGC]
+SCAD1C:30:B0:Hit anywhere (1 of 4)[GGC]
+SCAD33:30:B0:Hit anywhere (2 of 4)[GGC]
+SCAD22:30:B0:Hit anywhere (3 of 4)[GGC]
+SCAD39:F0:B0:Hit anywhere (4 of 4)[GGC]
+SCA013:00:08:Pits aren't fatal (side view)[GGC]
+SC9CDD:50:D0:Walk on water (overhead view)[GGC]
+SC9931:AD:CE:Grappling Hook continues to search for land (1 of 2)[GGC]
+SCA22C:A5:85:Grappling Hook continues to search for land (2 of 2)[GGC]
+SCC0B1:18:06:Start with 12 units of health (1 of 2)[GGC]
+SCC0B2:18:06:Start with 12 units of health (2 of 2)[GGC]
+SCB557:90:B0:Enemies always drop X (1 of 3)[GGC]
+SCB57E:A9:29:Enemies always drop X (2 of 3)[GGC]
+SCB57F:03:07:Enemies always drop a health potion (3 of 3)[GGC]
+SCB57F:04:07:Enemies always drop a Mind unit (3 of 3)[GGC]
+00C0:FF:Start with all equipment (1 of 2)
+00C1:FF:Start with all equipment (2 of 2)
+00C7:FF:Lots of Tone
+00C8:FF:Lots of Last
+00CD:FF:Infinite Attack & Assail
+00C0:10:Always have Power Up

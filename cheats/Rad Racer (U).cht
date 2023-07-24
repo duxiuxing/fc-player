@@ -1,0 +1,22 @@
+SCD54F:00:01:Never crash from things outside of the road[GGC]
+SDE27:FF:Infinite time[GGC]
+SCDE23:24:2D:Less time to finish each stage[GGC]
+SCDE23:3C:2D:More time to finish each stage[GGC]
+SCC520:30:00:Turbo acceleration[GGC]
+SCC53C:7F:30:Super Turbo acceleration[GGC]
+SCC581:01:00:Ultra Turbo acceleration[GGC]
+SCCEC4:24:85:Start on stage XX (disable after loading stage) (1 of 2)[GGC]
+SCC029:01:00:Start on stage 2 (disable after loading stage) (2 of 2)[GGC]
+SCC029:02:00:Start on stage 3 (disable after loading stage) (2 of 2)[GGC]
+SCC029:03:00:Start on stage 4 (disable after loading stage) (2 of 2)[GGC]
+SCC029:04:00:Start on stage 5 (disable after loading stage) (2 of 2)[GGC]
+SCC029:05:00:Start on stage 6 (disable after loading stage) (2 of 2)[GGC]
+SCC029:06:00:Start on stage 7 (disable after loading stage) (2 of 2)[GGC]
+SCC029:07:00:Start on stage 8 (disable after loading stage) (2 of 2)[GGC]
+00E5:01:Start on stage 2 (disable after loading stage) (alt)
+00E5:02:Start on stage 3 (disable after loading stage) (alt)
+00E5:03:Start on stage 4 (disable after loading stage) (alt)
+00E5:04:Start on stage 5 (disable after loading stage) (alt)
+00E5:05:Start on stage 6 (disable after loading stage) (alt)
+00E5:06:Start on stage 7 (disable after loading stage) (alt)
+00E5:07:Start on stage 8 (disable after loading stage) (alt)

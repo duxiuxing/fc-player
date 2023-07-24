@@ -1,0 +1,37 @@
+SA13A:3B:Invincibility - both players[GGC]
+SCA1AD:11:0D:Hit anywhere[GGC]
+SA201:00:One hit kills[GGC]
+SCE5A8:00:02:Activates 10 lives code[GGC]
+SCE5AA:1D:09:10 lives code give you 30[GGC]
+SCE4C3:08:00:Start a new game to view ending[GGC]
+SCEA9F:38:39:Press Start to finish level (1 of 2)[GGC]
+SCEA9D:04:01:Press Start to finish level (2 of 2)[GGC]
+SCE5A3:00:02:Start with 1 life - both players[GGC]
+SCE5A3:05:02:Start with 6 lives - both players[GGC]
+SCE5A3:08:02:Start with 9 lives - both players[GGC]
+SCE5A3:FF:02:Start with 255 lives - both players[GGC]
+SCE583:01:00:Start at area 2[GGC]
+SCE583:02:00:Start at area 3[GGC]
+SCE583:03:00:Start at area 4[GGC]
+SCE583:04:00:Start at area 5[GGC]
+SCE583:05:00:Start at area 6[GGC]
+SCE583:06:00:Start at area 7[GGC]
+SCE4AF:F0:D0:Stage select after title screen[GGC]
+SCE6F6:00:02:Extra life for each enemy killed[GGC]
+SCE58D:06:02:Start with 9 continues[GGC]
+SCEA1A:A5:C6:Infinite continues[GGC]
+SCE5B4:B8:57:Start game with X Gun (1 of 3)[GGC]
+SCE5A1:57:B8:Start game with X Gun (2 of 3)[GGC]
+SCE5B2:02:00:Start game with Spray Gun (3 of 3)[GGC]
+SCE5B2:04:00:Start game with Fireball Gun (3 of 3)[GGC]
+S8870:F0:Run faster to the right[GGC]
+SC86E0:24:D0:Multi-jump - both players (1 of 2)[GGC]
+SC86E9:3A:6D:Multi-jump - both players (2 of 2)[GGC]
+00D4:55:Invincibility (blinking)
+0053:03:Infinite lives
+00B8:81:Have the Machine Gun
+00B8:82:Have the Spread Gun
+00B8:83:Have the Laser Gun
+00B8:84:Have the Fireball Gun
+00B8:85:Have the Single Shot MG
+00B8:86:Have the Super Fireball Gun

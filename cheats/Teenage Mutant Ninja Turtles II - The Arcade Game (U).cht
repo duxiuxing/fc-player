@@ -1,0 +1,25 @@
+SC82B9:D0:F0:Invincibility (except grabs from behind) - both players[GGC]
+SC8EE5:BD:9D:Infinite health - both players (1 of 2)[GGC]
+SCEC01:BD:9D:Infinite health - both players (2 of 2)[GGC]
+SC8B03:00:01:Infinite lives - both players[GGC]
+SCEAAA:10:D0:One hit kills - both players[GGC]
+SCEAA4:09:02:Stronger turtle weapon[GGC]
+SCEA9C:09:04:Stronger jump + attack[GGC]
+SCEA9C:02:04:Stronger jump + attack[GGC]
+SCEAA0:09:03:Stronger kick[GGC]
+SCEAA0:01:03:Weaker kick[GGC]
+SCCAEF:81:00:Enable stage select and 10 lives code[GGC]
+SCD3DC:04:01:Press Start to finish the level (1 of 2)[GGC]
+SCD3DE:3C:3D:Press Start to finish the level (2 of 2)[GGC]
+SCD190:01:02:Start with 1 life[GGC]
+SCD190:06:02:Start with 6 lives[GGC]
+SCD190:09:02:Start with 9 lives[GGC]
+0025:81:Enable stage select after choosing your turtle
+004D:09:Infinite lives - P1
+004E:09:Infinite lives - P2
+0093:2B:Invincibility - P1
+0094:2B:Invincibility - P2
+03D3:03:Infinite continues
+0568:37:Infinite health - P1
+056A:37:Infinite health - P2
+EAAA:10:One hit kills - both players(alt)

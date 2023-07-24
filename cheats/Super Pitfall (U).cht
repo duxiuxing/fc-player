@@ -1,0 +1,12 @@
+SCD548:AD:CE:Infinite lives - 1P game[GGC]
+SCD58E:AD:CE:Infinite lives - P1[GGC]
+SCD5AA:AD:CE:Infinite lives - P2[GGC]
+SCD061:01:03:Start with 1 life - both players[GGC]
+SCD061:06:03:Start with 6 lives - both players[GGC]
+SCD061:09:03:Start with 9 lives - both players[GGC]
+SCCFAF:03:02:Start with 30 bullets[GGC]
+SCCFAF:01:02:Start with 10 bullets[GGC]
+SCF395:00:01:Infinite bullets[GGC]
+SCBBF0:03:02:30 bullets gained on pick-up[GGC]
+SCBBF0:01:02:10 bullets gained on pick-up[GGC]
+00DC:FF:Invincibility (blinking) - both players

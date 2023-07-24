@@ -1,0 +1,20 @@
+SCEE6E:A9:90:Infinite health (1 of 3)[GGC]
+SCEE6F:B0:1B:Infinite health (2 of 3)[GGC]
+SCEE71:8D:BD:Infinite health (3 of 3)[GGC]
+SCEACC:2C:CE:Infinite time[GGC]
+SC80A4:30:B0:Start with 1/3 health - both players[GGC]
+Select ultra strength (ignore strength meter and keep pushing to the right) - both players[GGC]
+SC8362:07:04:Select any character in story mode[GGC]
+SC86CA:C1:C6:Infinite continues[GGC]
+SC80A4:01:B0:First hit wins round[GGC]
+SC8A79:A9:69:One round wins match (1 of 2)[GGC]
+SC8A7A:02:01:One round wins match (2 of 2)[GGC]
+SCF4A3:0B:02:Start a new game to view ending[GGC]
+0590:B0:Infinite health - P1
+0591:00:No health - P2 / CPU
+0672:09:Infinite time (tens digit)
+0673:09:Infinite time (one's digit)
+06C3:00:Turn off CPU's jumping, blocking and fighting routine (1 of 4)
+06C7:00:Turn off CPU's jumping, blocking and fighting routine (2 of 4)
+06C9:00:Turn off CPU's jumping, blocking and fighting routine (3 of 4)
+06CB:00:Turn off CPU's jumping, blocking and fighting routine (4 of 4)

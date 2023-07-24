@@ -1,0 +1,16 @@
+SC8A01:A5:C6:Infinite time[GGC]
+SC8286:AD:BD:Set timer to 5:00 for all levels[GGC]
+SC8ACD:00:02:Hearts replenish health to maximum[GGC]
+SCAEE6:A5:85:Don't take most damage[GGC]
+SC9955:06:14:Take half damage from bosses[GGC]
+SC921F:01:00:Start on level 2[GGC]
+SC921F:02:00:Start on level 3[GGC]
+SC921F:03:00:Start on level 4[GGC]
+SC921F:04:00:Start on level 5[GGC]
+SC921F:05:00:Start on level 6[GGC]
+SC921F:06:00:Start on level 7[GGC]
+SC8286:AD:BD:Set timer to 3:00 for all levels (1 of 2)[GGC]
+SC8288:CF:80:Set timer to 3:00 for all levels (1 of 2)[GGC]
+00DA:40:Infinite health (1 of 2)
+00DB:40:Infinite health (2 of 2)
+00EB:09:Infinite time (alt)

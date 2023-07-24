@@ -1,0 +1,13 @@
+SC8FEB:F0:D0:Invincibility[GGC]
+SCE7C1:60:99:Infinite health[GGC]
+SCC17D:D5:D6:Infinite lives[GGC]
+SCE704:C5:C6:Infinite time (1 of 2)[GGC]
+SCE6FC:C5:C6:Infinite time (2 of 2)[GGC]
+SC8B72:D0:F0:No enemies[GGC]
+SCE80C:00:03:Each N (Nuke) is worth 10[GGC]
+0052:09:Infinite N (one's digit)
+0053:09:Infinite N (ten's digit) (alt)
+0054:09:Infinite health (one's digit) (alt)
+0055:09:Infinite health (ten's digit) (alt)
+0058:04:Infinite lives (alt)
+0091:FF:Infinite time (alt)

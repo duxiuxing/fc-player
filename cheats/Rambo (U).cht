@@ -1,0 +1,17 @@
+SCDD1A:60:B5:Invincibility[GGC]
+SCE2A2:14:0A:Gain double amount on pick-up[GGC]
+SCE2A2:74:0A:Gain maximum amount on pick-up[GGC]
+SCEC9A:AD:DE:Infinite weapons[GGC]
+SCD9EF:00:3A:Hit anywhere[GGC]
+SC867D:15:11:Start with Hand Grenades (1 of 2)[GGC]
+SC8683:15:11:Start with Hand Grenades (2 of 2)[GGC]
+SC868D:02:05:Start with 2 Medicine Bottles[GGC]
+SC868D:62:05:Start with 9 Medicine Bottles[GGC]
+010C:64:Infinite health
+010F:23:Max EXP
+011D:99:Infinite Throwing Knives
+11E<:99:Infinite Missiles type 1
+011F:99:Infinite Missiles type 2
+0120:99:Infinite Machine Gun
+0121:99:Infinite Grenades
+0122:99:Infinite Red Potions

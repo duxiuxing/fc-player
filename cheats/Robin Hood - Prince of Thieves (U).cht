@@ -1,0 +1,15 @@
+SC8B29:86:85:Infinite HP for Robin in main combat[GGC]
+SC8921:F0:30:Infinite HP for Robin in dueling combat[GGC]
+SCB7A3:14:08:Bandages give more HP back[GGC]
+SCB3B5:18:08:Food gives more HP back - Except the Leg of meat[GGC]
+SC9255:00:01:Infinite Arrows[GGC]
+0179:FF:Infinite Arrows (alt)
+0175:FF:Max EXP points
+016C:00:Load zero
+016E:FF:Max Agility (1 of 2)
+016F:FF:Max Agility (2 of 2)
+0170:FF:Max Attack (1 of 2)
+0171:FF:Max Attack (2 of 2)
+0172:FF:Max Defense
+0176:FF:Max Level
+0177:FF:Max Gold
