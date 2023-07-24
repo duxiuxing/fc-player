@@ -1,0 +1,20 @@
+SCB39D:B9:99:Infinite health[GGC]
+SCB397:24:E5:Don't take damage from most enemies[GGC]
+SCF7F5:30:60:Start with half normal health[GGC]
+SCA83E:A9:69:Maximum weapon power on pick-up (1 of 2)[GGC]
+SCA83F:04:01:Maximum weapon power on pick-up (2 of 2)[GGC]
+06D1:32:Infinite health (alt)
+00F8:80:Infinite hearts
+06C3:04:Have Machine Gun
+00F2:01:Start with and keep Arrow
+06C5:04:Start with and keep Bazooka
+06C7:04:Start with and keep Boomerang
+00EC:01:Start with and keep Earthquake
+00F6:01:Start with and keep Elixir
+06CB:04:Start with and keep Grenades
+06CD:04:Start with and keep Land Mines
+00EA:01:Start with and keep Lightning
+00F0:01:Start with and keep Shield
+06C9:04:Start with and keep Sword
+00F4:01:Start with and keep Time Stopper
+00EE:01:Start with and keep Wings

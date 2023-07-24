@@ -1,0 +1,10 @@
+SCB215:2C:CE:Enemy's fatigue level doesn't go down[GGC]
+SCB21D:2C:CE:Your fatigue level doesn't go down[GGC]
+SCB20D:3F:7F:Your fatigue level goes down faster[GGC]
+SCB20D:FF:7F:Your fatigue level goes down slower[GGC]
+SCB256:AD:CE:Don't lose energy from fighting[GGC]
+SCB271:AD:EE:Your fatigue level never rises[GGC]
+SCD74D:02:01:More damage from fireballs[GGC]
+0362:00:Instant kills on enemies
+0363:0F:Infinite health in battle sequences
+042C:FF:Infinite Gold

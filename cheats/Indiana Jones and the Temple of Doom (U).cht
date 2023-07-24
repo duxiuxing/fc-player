@@ -1,0 +1,16 @@
+SCAC09:AD:CE:Infinite lives[GGC]
+SCA020:AD:CE:Infinite time[GGC]
+SCBBC3:00:04:Start with 1 life[GGC]
+SCBBC3:09:04:Start with 10 lives[GGC]
+SCBBC3:0E:04:Start with 15 lives[GGC]
+SCA354:AD:CE:Always keep Sword[GGC]
+SCA63A:AD:CE:Always keep Gun[GGC]
+SCBC40:11:0F:Start on level 2[GGC]
+SCBC40:15:0F:Start on level 4[GGC]
+SCBC40:19:0F:Start on level 6[GGC]
+SCBC40:1D:0F:Start on level 8[GGC]
+SCBC4A:3C:63:Start with less time (1 of 3)[GGC]
+SCAB8B:63:3C:Start with less time (2 of 3)[GGC]
+SCAC1E:63:3C:Start with less time (3 of 3)[GGC]
+011D:B0:Have all 3 Keys
+012F:00:0 Maps left
