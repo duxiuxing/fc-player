@@ -1,0 +1,34 @@
+SCC6E5:A9:A5:Immune to explosions[GGC]
+SC650:A5:Infinite time[GGC]
+SC498:A5:Infinite lives[GGC]
+SC3AB:00:Start with 1 life[GGC]
+SC3AB:09:Start with 10 lives[GGC]
+SC44C:96:Decrease time[GGC]
+SC44C:FE:Increase timer[GGC]
+SC3B7:0A:Start on stage 10[GGC]
+SC3B7:14:Start on stage 20[GGC]
+SC3B7:1E:Start on stage 30[GGC]
+SC3B7:28:Start on stage 40[GGC]
+SC3B7:32:Start on stage 50[GGC]
+SCC3C8:20:10:Start with double power Bomb blasts[GGC]
+SCC3C8:30:10:Start with triple power Bomb blasts[GGC]
+SCC3C8:80:10:Start with maximum power Bomb blasts[GGC]
+SCCD2B:FF:A0:Increase Bomb detonation time[GGC]
+SCCD2B:70:A0:Reduce Bomb detonation time[GGC]
+SCC48B:24:85:Never lose Detonator after pick-up[GGC]
+SCC3DC:00:2D:Start with Detonator, max Bomb power and use up to 10 Bombs[GGC]
+SCCD07:A2:A6:Use up to 10 Bombs (1 of 2)[GGC]
+SCCD08:09:74:Use up to 10 Bombs (2 of 2)[GGC]
+SCC98E:A9:A5:Start with and keep Detonator (1 of 2)[GGC]
+SCCCDF:00:0E:Start with and keep Detonator (2 of 2)[GGC]
+SCCF7F:A9:49:Walk through walls (1 of 2)[GGC]
+SCCF80:00:01:Walk through walls (2 of 2)[GGC]
+005C:00:Invincibility
+0079:01:Immune to explosions (alt)
+0093:EE:Infinite time (alt)
+0068:09:Infinite lives (alt)
+0073:80:Max Bomb power
+0074:0A:Use up to 10 Bombs (alt)
+0076:01:Walk through walls (alt)
+0077:01:Have Detonator
+0058:32:Start on stage 50 (alt)

@@ -1,0 +1,42 @@
+S89B4:EA:Infinite car health[GGC]
+SCC2CC:FF:00:Start with all abilities[GGC]
+SCC309:63:00:Start with 99 of each weapon[GGC]
+SCC309:FF:00:Start with 99 of each weapon and max Hover[GGC]
+SD70B:07:Enemies are killed instantly[GGC]
+SCC537:A5:C6:Infinite lives[GGC]
+SCC302:00:02:Start with 1 life[GGC]
+SCC302:05:02:Start with 6 lives[GGC]
+SCC302:08:02:Start with 9 lives[GGC]
+SC9328:A5:C6:Infinite Hover[GGC]
+SC9858:2C:CE:Infinite Homing Missiles[GGC]
+SC99C0:2C:CE:Infinite Thunderbreaks[GGC]
+SC9ADE:2C:CE:Infinite Multi-Warheads[GGC]
+SCC309:05:00:Start with 5 of each weapon[GGC]
+SCC309:0A:00:Start with 10 of each weapon[GGC]
+SCC309:0F:00:Start with 15 of each weapon[GGC]
+SCC2FE:09:08:Start on world 2[GGC]
+SCC2FE:0A:08:Start on world 3[GGC]
+SCC2FE:0B:08:Start on world 4[GGC]
+SCC2FE:0C:08:Start on world 5[GGC]
+SCC2FE:0D:08:Start on world 6[GGC]
+SCC2FE:0E:08:Start on world 7[GGC]
+SCC2FE:0F:08:Start on world 8[GGC]
+SCC2FD:A9:09:Start at the boss of world X (1 of 2)[GGC]
+SCC2FE:00:08:Start at the boss of world 1 (2 of 2)[GGC]
+SCC2FE:01:08:Start at the boss of world 2 (2 of 2)[GGC]
+SCC2FE:02:08:Start at the boss of world 3 (2 of 2)[GGC]
+SCC2FE:03:08:Start at the boss of world 4 (2 of 2)[GGC]
+SCC2FE:04:08:Start at the boss of world 5 (2 of 2)[GGC]
+SCC2FE:05:08:Start at the boss of world 6 (2 of 2)[GGC]
+SCC2FE:06:08:Start at the boss of world 7 (2 of 2)[GGC]
+SCC2FE:07:08:Start at the boss of world 8 (2 of 2)[GGC]
+SCC53A:42:16:Die to see ending[GGC]
+007E:00:Invincibility
+0092:FF:Infinite Hover (alt)
+00C3:FF:Full Gun Power - Jason
+00DD:03:Infinite lives (alt)
+040D:FF:Infinite health (alt)
+047D:00:Most end bosses die instantly
+06F0:63:Infinite Homing Missiles (alt)
+06F1:63:Infinite Thunderbreaks (alt)
+06F2:63:Infinite Multi-Warheads (alt)

@@ -1,0 +1,18 @@
+SC9A10:11:C6:Infinite health[GGC]
+SC6C6:C5:Infinite health (alt)[GGC]
+SC6C4:C5:Regenerates health meter (except Joker's gun)[GGC]
+SC9C81:A5:85:Infinite weapons[GGC]
+SC9B47:AD:4C:Hit anywhere + one hit kills[GGC]
+SCC634:A5:C6:Infinite lives[GGC]
+SCDC8C:00:02:Start with 1 life[GGC]
+SCDC8C:05:02:Start with 6 lives[GGC]
+SCDC8C:08:02:Start with 9 lives[GGC]
+SC9E81:04:01:Extra health on heart pick-up[GGC]
+SC9C7B:24:E5:Infinite bullets on pick-up[GGC]
+SC9E52:14:0A:Double usual bullets on pick-up[GGC]
+SC9E52:05:0A:Half usual bullets on pick-up[GGC]
+SC94B5:F5:DC:Multi-jump[GGC]
+00CC:A4:Invincibility
+00B7:08:Infinite health (alt 2)
+00B8:63:Infinite weapons (alt)
+00A6:FF:Super gun (cannot change weapons)

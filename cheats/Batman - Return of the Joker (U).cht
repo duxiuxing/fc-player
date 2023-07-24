@@ -1,0 +1,21 @@
+SCB06D:AD:85:Invincible to bosses[GGC]
+SCAF21:AD:8D:Protection from enemy bullets[GGC]
+SCAA54:AD:8D:Protection from collisions[GGC]
+SC82D6:AD:8D:Protection from electric grids[GGC]
+SCD4A3:00:02:Start with 1 life[GGC]
+SCD4A3:64:02:Start with 100 lives[GGC]
+SCAB6E:04:02:Each Backpack Energy Capsule counts as two[GGC]
+SCAB6E:08:02:Each Backpack Energy Capsule counts as four[GGC]
+SC9549:00:02:Invincibility lasts until the end of stage[GGC]
+SCD499:0C:FE:Start with 7 Backpack Energy Capsules instead of none[GGC]
+SCD49E:04:0E:Start with 3 life increments instead of 8[GGC]
+SC915E:04:0E:Continue game with 3 life increments instead of 8[GGC]
+SCD52A:AD:CE:Infinite lives[GGC]
+SCB18D:2C:8D:Don't get stunned when hit[GGC]
+SCB1B8:00:04:Stand your ground (1 of 2)[GGC]
+SCB1C0:2C:8C:Stand your ground (2 of 2)[GGC]
+SCB1B6:FE:FF:Intense knock-back when hit (may get stuck if you knock back into a wall) (1 of 2)[GGC]
+SCB1BC:01:00:Intense knock-back when hit (may get stuck if you knock back into a wall) (2 of 2)[GGC]
+00AA:00:Bosses lose health quickly
+0478:08:Infinite health
+0479:00:Invincibility after first hit

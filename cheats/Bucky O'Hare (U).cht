@@ -1,0 +1,32 @@
+SC8FB9:00:B0:Multi-jump (1 of 2)[GGC]
+SC8FA3:00:10:Multi-jump (2 of 2)[GGC]
+SC869A:24:B0:Hit anywhere (1 of 4)[GGC]
+SC867F:24:B0:Hit anywhere (2 of 4)[GGC]
+SC8684:A9:69:Hit anywhere (3 of 4)[GGC]
+SC869F:A9:69:Hit anywhere (4 of 4)[GGC]
+SCCDB8:09:02:Start a new game to view the ending[GGC]
+SCDB4E:BD:9D:One hit kills[GGC]
+SC8CCE:F0:10:All characters always selectable[GGC]
+SCC3D5:08:01:Press Start to complete the level (1 of 4)[GGC]
+SCC3D8:00:01:Press Start to complete the level (2 of 4)[GGC]
+SCC3D7:1C:09:Press Start to complete the level (3 of 4)[GGC]
+SCC3D4:A9:49:Press Start to complete the level (4 of 4)[GGC]
+SCBF02:00:02:Start with 1 life[GGC]
+SCBF02:05:02:Start with 6 lives[GGC]
+SCBF02:09:02:Start with 10 lives[GGC]
+SCCFA6:00:02:1 life after continue[GGC]
+SCCFA6:05:02:6 lives after continue[GGC]
+SCCFA6:09:02:10 lives after continue[GGC]
+SCCE69:A5:C6:Infinite lives[GGC]
+SCBF14:06:14:Start with 1/2 health[GGC]
+SCBF06:98:8C:Double Bucky's special health[GGC]
+SCBF06:A4:8C:Triple Bucky's special health[GGC]
+SCBF0A:8C:0C:All characters start with normal special health[GGC]
+SCBF0A:98:0C:All characters start with 2x special health[GGC]
+SCBF0A:A4:0C:All characters start with 3x special health[GGC]
+0034:01:Play as Jenny
+0034:02:Play as Dead Eye
+0034:03:Play as Blinky
+0034:04:Play as Willy DuWitt
+004C:09:Infinite lives - all characters
+05A0:14:Infinite health - all characters

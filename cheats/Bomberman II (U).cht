@@ -1,0 +1,35 @@
+SCC980:00:02:Start with 1 life[GGC]
+SCC980:05:02:Start with 6 lives[GGC]
+SCC980:08:02:Start with 9 lives[GGC]
+SCCAC4:2C:CE:Infinite lives[GGC]
+SC98AF:2C:CE:Infinite time[GGC]
+SC98AB:63:3B:Slower timer[GGC]
+SC98AB:1E:3B:Faster timer[GGC]
+SC87C2:00:03:Always have Detonator[GGC]
+SC928B:7F:4B:Bomb has a longer fuse[GGC]
+SC928B:20:4B:Bomb has a shorter fuse[GGC]
+SCBA95:2C:DE:Stop Bombs from exploding[GGC]
+SC9056:80:C7:Dollar sign acts as flame face[GGC]
+SC9056:74:C7:Dollar sign acts as Bomb[GGC]
+SC9056:8C:C7:Dollar sign acts as heart with Bomb[GGC]
+SC9056:91:C7:Dollar sign acts as skate[GGC]
+SC9056:A9:C7:Dollar sign acts as vest for a short time[GGC]
+SCCE2D:04:00:Super start (1 of 2)[GGC]
+SCCE5C:04:00:Super start (2 of 2)[GGC]
+SC87A1:A9:A5:Immune to explosions (1 of 2)[GGC]
+SC87A2:01:AE:Immune to explosions (2 of 2)[GGC]
+SC879C:A9:A5:Walk through walls (1 of 2)[GGC]
+SC879D:01:AD:Walk through walls (2 of 2)[GGC]
+0069:05:Invincibility (except in normal game) - P1
+006A:05:Invincibility (except in normal game) - P2
+006B:05:Invincibility (except in normal game) - P3
+0090:0C:Max Bomb quantity - P1
+0091:0C:Max Bomb quantity - P2
+0092:0C:Max Bomb quantity - P3
+0093:0C:Max Bomb power - P1
+0094:0C:Max Bomb power - P2
+0095:0C:Max Bomb power - P3
+04E5:09:Infinite lives - P1
+0559:09:Infinite time (hundred's digit)
+055A:09:Infinite time (ten's digit)
+055B:09:Infinite time (one's digit)

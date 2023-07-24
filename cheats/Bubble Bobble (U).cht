@@ -1,0 +1,27 @@
+SCCA38:01:03:Start with 1 life - both players[GGC]
+SCCA38:06:03:Start with 6 lives - both players[GGC]
+SCCA38:09:03:Start with 9 lives - both players[GGC]
+SCCA30:0A:01:Start on level 10[GGC]
+SCCA30:19:01:Start on level 25[GGC]
+SCCA30:32:01:Start on level 50[GGC]
+SCCA30:4B:01:Start on level 75[GGC]
+SCCB11:02:04:Skip only 2 levels[GGC]
+SCCB11:0A:04:Skip 10 levels[GGC]
+SCD533:00:19:Lots of bubble power[GGC]
+SC8478:02:01:Monsters move faster (1 of 2)[GGC]
+SC8488:FF:FE:Monsters move faster (2 of 2)[GGC]
+SC8478:03:01:Monsters move super fast (1 of 2)[GGC]
+SC8488:FF:FD:Monsters move super fast (2 of 2)[GGC]
+SC847D:03:02:Angry monsters move faster (1 of 2)[GGC]
+SC848D:FD:FE:Angry monsters move faster (2 of 2)[GGC]
+SCD47D:00:06:Always wear turbo shoes (1 of 2)[GGC]
+SCD4D1:00:06:Always wear turbo shoes (2 of 2)[GGC]
+003F:2F:Invincibility - P1
+0053:2F:Invincibility - P2
+002E:09:Infinite lives - P1
+0042:09:Infinite lives - P2
+0030:02:Have Long Shot
+0030:04:Have Rapid Shot
+0030:06:Have Long Rapid Shot
+0030:45:Have Lightning Shot
+0032:0A:Float

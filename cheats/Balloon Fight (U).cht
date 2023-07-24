@@ -1,0 +1,12 @@
+SCF2FD:B5:D6:Infinite lives[GGC]
+SCF1F1:00:02:Start with 1 life[GGC]
+SCF1F1:05:02:Start with 6 lives[GGC]
+SCF1F1:08:02:Start with 9 lives[GGC]
+SCF3B6:01:02:Start with only one balloon[GGC]
+SCEFA7:60:84:Balloons are unburstable[GGC]
+SEA60:0B:Enemies can't burst balloons[GGC]
+SCF1FD:04:00:Start on level 5 - 2P only[GGC]
+SCF1FD:09:00:Start on level 10 - 2P only[GGC]
+SCF1FD:0E:00:Start on level 15 - 2P only[GGC]
+0041:02:Infinite lives - P1
+0042:02:Infinite lives - P2
